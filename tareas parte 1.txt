@@ -1,4 +1,5 @@
 Find and replace ;; por @ + chequear los posibles ; restantes + agregar citas a zotero con código
+Recuperar todas las "figuras"; incorporar las indispensables sobre todo en la última sección
 
 INTRODUCCIÓN:
 Citas y redacción	
@@ -10,7 +11,7 @@ Citas y redacción
 - Redactar párrafo final
 Agregar luego
 - Definición de "condiciones de posibilidad"
-
+- hay que establecer antes la característica fragmentaria del proyecto, quizá al momento de indicar todas las coincidencias simétricas con *Repertorio*; también 
 
 DETRÁS DE UN ROSTRO AISLADO
 	- Las huellas borradas de la narración
@@ -64,10 +65,25 @@ MATERIALIZANDO AL CONTRAHÉROE
 - Paréntesis multilineal
 	- Traducción de "scope", "the big picture", "outset"
 	- Imprentas en el imperio en 1797 y 1823
-	- Sabios y publicistas
+- Sabios y publicistas
 	- Año de La obra de arte
 	- Cita de Benjamin sobre la litografía
 	- Cita de González Stephan
 	- Los dos autores sobre litografía
 	- Cómo se llama el de sabios y publicistas
+	- Definición de los sabios según él
+DEL ISOCRONISMO A LA RECURSIVIDAD
+- La economía de la lengua
+	- Cita de "parece conservarse"
+	- Traducción de misconception
+	- Cita de los principios descriptivos del arte de pintar palabras
+- El cuerpo como origen
+	- Cita de pero qué pronunciación pintaremos
+	- Nota para "la atención que Rodríguez mantiene sobre las relaciones de producción"
+- Resistencia a la sucesión
+	- Confirmar cita de antojos expresivos de Bello
+	- Cita de Rama, "más que un arte de escribir"
+	- Confirmar en qué entrega de SA aparece lo de "sentir"
+	- Cita Velayos "does not mean"; "Hence ... thoughts"
+	- Cita Rodríguez: "no se han de ensartar"
 	
