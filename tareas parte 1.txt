@@ -1,5 +1,6 @@
 Find and replace ;; por @ + chequear los posibles ; restantes + agregar citas a zotero con código
 Recuperar todas las "figuras"; incorporar las indispensables sobre todo en la última sección
+Indicar en la tabla dónde se encuentran las "figuras"
 
 INTRODUCCIÓN:
 Citas y redacción	
@@ -87,6 +88,26 @@ DEL ISOCRONISMO A LA RECURSIVIDAD
 	- Cita Velayos "does not mean"; "Hence ... thoughts"
 	- Cita Rodríguez: "no se han de ensartar"
 EL FUTURO COMO ORIGEN
+- El tiempo homogéneo de la letra impresa
 	- Fecha y lugar de publicaciones Rod
+	- Como su nombre lo sugiere, *Repertorio* es una colección. Reúne materiales diversos para <cita>
+	- En uno de estos materiales traducidos, titulado "Elementos de física", se pondera como efecto de la tecnología de impresión la habilitación de una onotología que, en la formulación de Benjamin, aparece íntimamente ligada a la formación del isocronismo. En el artículo traducido se lee:<cita>
+	- Autor del texto de "elementos de física"
+	- producto del capitalismo impreso se mueve en el tiempo tal como ;;Benjamin describe la teoría socialdemócrata, "determinada por <...> realidad <...> [E]l progreso <...> indetenible". 
+	- Es esa delimitación la que hace posible la noción de origen que Rodríguez crítica en el "Pródromo" en la sección dedicada al "arte de dibujar repúblicas" <cita>
+	- Esta noción de origen puede rastrearse con precisión en *Repertorio*. En la presentación del primer número, los editores declaran que <cita>. Y luego, en el índice encontramos rastros del maquillaje neoclásico que indica Rodríguez: <ejemplos>. Pero más explícita y específicamente, Bello dice en uno de los artículos que <¿firma?><cita>. 
+	- Describir el grabaddo de Repertorio1
+- Un origen recursivo
+	- Referencia del artículo de la Universidad de Utah y el artículo de Wikipedia
+	- Cita de los dogmas de Rodríguez
+	- Referencia interna sobre el plan de Rodríguez en 1826
+	- Definir año en que se incorporan los comentarios críticos al pródromo en Luces
+	- Nota con referencia a mi artículo de "feedback"
+	- Fecha de "lo único constante es la variación" 
+	-  <nota sobre la metonimia de las letras "ensartadas como un collar" y la repetición mecánica de lo idéntico a sí mismo en una línea sucesiva sin final>
+- La retaguardia de la importación
+	- Referencia interna a sabios y publicistas
+	- los desafíos propios de una sociedad que se encuentra crónicamente a la retaguardia en las fuerzas productivas del capitalismo impreso <referencia interna>
 	- 
+
 	
