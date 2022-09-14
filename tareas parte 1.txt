@@ -1,13 +1,11 @@
 Find and replace ;; por @ + chequear los posibles ; restantes + agregar citas a zotero con código
-Recuperar todas las "figuras"; incorporar las indispensables sobre todo en la última sección
-Indicar en la tabla dónde se encuentran las "figuras"
+
 
 INTRODUCCIÓN:
 Citas y redacción	
 - Cita de la versión de Bolívar del Juramento
 - Cita de Lasarte Valcárcel 
 - Cita de Pulgar sobre las condiciones de posibilidad
-- Transición sobre la cualidad iconográfica de Rodríguez
 - Citar características físicas folleto
 - Redactar párrafo final
 Agregar luego
@@ -114,4 +112,4 @@ EL FUTURO COMO ORIGEN
 	- <Mejorar transición, incorporando la idea de la operación de imprimir o del arte de escribir como una rama del árbol epistemológico de Rodríguez que no podemos ver pero sí inferir. En el árbol de Bello, el dogma es catch-up con el capitalismo impreso europeo; en el de Rodríguez es conjurar la monotonía y el isocronismo que estos imponen. Y en con base en este dogma, se opone una disciplina de impresión progresista a una de impresión recursiva. La economía de las operaciones apunta, en un caso, a un cálculo en base al plan europeo; en el otro, a un cálculo de su superación>
 	-  los resultados concretos muestran la desventaja concreta en que queda el producto respecto al estado de la reproducción técnica, no solo en Europa, sino en el futuro cercano latinoamericano: como ya indiqué, <hechos en Europa y> el mismo año en que se imprimió el primer número de *Repertorio* se instalaron en Argentina y México los primeros talleres de litografía.
 	-  <remate con el asunto de la desaparición del ámbito neoclásico en la emergencia de la nueva tecnología>
-	- <transición de por qué sigue siendo máquina, un poco sugiriendo superar la mirada condescendiente y victimizadora>
+	- <transición de por qué sigue siendo máquina, un poco sugiriendo superar la mirada condescendiente y victimizadora del loco aislado, y sugerir que justamente el principio recursivo es lo que definía el futuro, que es nuestro presente>
