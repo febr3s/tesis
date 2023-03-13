@@ -5,5 +5,18 @@
 - Exportar a doc, ajustar estilos, agregar portada [x]
 - Imprimir y corregir [x]
 - Aplicar correcciones [x]
-- Exportar, agregar numeros de página, formatear bibliografía
+- Exportar
+	- agregar numeros de página [x]
+	- formatear bibliografía 
+	- formatear sangría
 - Cuadrar impresión y entrega
+
+# Cálculo para header MLA
+
+## Distancia que añade el header al margen superior
+
+0.10 entre el margen y el bottom del header +
+0.50 entre el bottom del header y el texto +
+0.90 entre el top del header y el texto
+
+= 1.50
