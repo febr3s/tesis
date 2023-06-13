@@ -1,0 +1,7 @@
+title:          Ch2: una vacuna contra la inteligencia de las máquinas
+ID:             2644
+type:           folder
+compile:        2
+charCount:      163292
+
+

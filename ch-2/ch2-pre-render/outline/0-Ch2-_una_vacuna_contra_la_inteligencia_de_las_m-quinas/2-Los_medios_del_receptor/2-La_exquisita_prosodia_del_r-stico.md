@@ -1,0 +1,31 @@
+title:          La exquisita prosodia del rústico
+ID:             3147
+type:           md
+compile:        2
+charCount:      6170
+
+
+"El hombre mas rústico es prosodista en la conversacion, y el mas sabio peca contra las reglas leyendo", imprimió en el "Galeato" [;;Rod1834 pp] <<-y cuándo más->>. Con esta afirmación, introducía un concepto revolucionario <<-groundbreaking->> en varios sentidos. Por un lado, aumentaba la apuesta contraintuitiva que ya había puesto en circulación: no solo hay una porción de vulgo entre sabios, pensadores, civilizados e ilustrados, sino que hay una habilidad necesaria para "extender con ARTE" en la que los "brutos" son al menos tan diestros como la clase escrituraria. 
+
+Es importante volver a subrayar que lo que planteaba Rodríguez no era simplemente una superioridad de la oralidad sobre la escritura. Lo que indica es que, en la conversación, el arte de entonar los signos estaba mejor resuelto que en la lectura. Por eso propone que los literatos "son prosodistas en la conversación", pero cuando leen caen en el "tonillo adormecedor de la escuela". En cambio, los "brutos", que saben conversar, pero no leer, son prosodistas competentes <<-proficient->> orgánicamente, todo el tiempo, aún si no dominan la pronunciación, o si la plagan de los "vicios" que le preocupaban a Bello. A partir de este modo de concebir la prosodia, Rodríguez marca su disidencia fundamenteal respecto a los programas de la elite escrituraria, pues asume que el "hombre más rústico" puede, bajo ciertas circunstancias, ser maś eficaz en el uso del lenguaje. 
+
+El programa divergente de Rodríguez no pasaba por abandonar la noción paternalista de "pulir" a los "brutos", sino que partía de ella para avanzar hacia una "generalización", que apuntaba a mediano y largo plazo a destruir la distribución inequitativa del saber y el poder, desnaturalizándola.
+
+>[figura: Para despreciar a alguno, por su Ignorancia, dicen . . .
+“¿Qué tal Sujeto será, cuando . . . ni leer sabe?”
+no lo dirian, si advirtieran que . . .
+leer, es resucitar ideas, sepultadas en el papel:
+Cada Palabra es un epitafio
+i que, para hacer esa especie de milagro! es menester
+conocer los espíritus de las difuntas,
+o tener espíritus equivalentes qué subrogarles].
+
+En este "cuadro" de *Luces* (1834), la noción de "LEER con SENTIDO" explota la homonimia de "sentido", que en unas acepciones refiere capacidades y funciones concretas del cuerpo para sentir, y en otras remite a capacidades y funciones abstractas e intangibles del razonamiento para fijar sifnificados [figura: tabla con acepciones de sustantivo "sentido"]. Así, leer "con sentido" para Rodríguez no es solamente leer con la capacidad de entender, interpretar y juzgar en abstracto el significado de lo leído: es también leer de tal modo que el sentido pueda *sentirse* en concreto mediante los órganos del cuerpo [nota: desarrollaré esto en mayor profundidad en el próximo capítulo]. Por otra parte, de acuerdo a la prosodia rodrigueana, "LEER con SENTIDO" es también leer con *sentido del ritmo y de la entonación*, "para instruir, excitando sentimientos" [pp]. Esa pauta tonal y rítmica es, en principio, el fundamento de su a.p.p:
+  
+  >¿Serán mal empleadas algunas hojas de papel mas, en obsequio de la inteleccion y en socorro del lector? ¿Será mas interesante divertir el oido que instruirlo?... ¿Se ahorra papel en la música?... ¿ó se gasta todo el necesario, para ayudar al lector á descifrar los conceptos, que ha de expresar cantando ó tocando, en solo ó en concierto? [;;Rod1834 pp]
+
+Es en esta capacidad donde Rodríguez encuentra más desprovisto al "vulgo letrado". Este sector, que juzga a los "brutos" porque no saben leer, aparece aquí como incapaz de "resucitar" la letra muerta del papel. Y a partir de la exposición de esta deficiencia, Rodríguez expone en *Luces* (1834) las carencias de sus lectores "ilustrados, "civilizadores", "pensadores" y "sabios". El señalamiento, como hemos visto, atraviesa distintas secciones del "Galeato", que se organizan en función de responder a las distintas "objecciones" que recibió  *Sociedades americanas en 1828* (1828).  Así, el "Galeato" se divide, en seis secciones numeradas, cada una respondiendo a una de las objeciones que recibió *Sociedades* (1828) [nota: las enumero]. La primera sección, que ya comenté, responde a quienes dijeron que el texto no era accesible al "Pueblo". Y la segunda se ocupa de responder a quienes reclaman que el autor de *Sociedades* "'NOS VIENE A ENSEÑAR' / y *¿quién ha dicho esto?* / varios: entre ellos algunos, que ni saben ni quieren aprender nada; por lo mismo no hay qué responderles" [;;Rod1834 pp]. 
+
+Aquí, Rodríguez propone una clasificación que se intersecta con la de las "especies" de "Pueblo". Los "varios" a los que sí hay qué responderles son: 1) quienes "quieren dar su voto en todo, porque saben una ó dos cosas bien"; 2) "—otros porque saben muchas mal"; y 3) "otros porque tienen representacion, alta ó baja, en los asuntos públicos" [pp]. Todos, se puede inferir, hacen parte del "vulgo" que es transversal a ilustrados, civilizadores, pensadores, sabios y brutos. Es decir, todos tienen una comprensión distorsionada o inexacta de las sociedades americanas en general, y en particular del "Pueblo", de los "brutos", y de la estrategia correcta para "pulirlos". Rodríguez viene a enseñarles cómo se debe enseñar.
+
+Para autorizarse, pone en evidencia la ineptitud e ignorancia que impide al vulgo letrado "extender con ARTE" para general lo público. A quienes "saben una ó dos cosas bien", Rodríguez les responde que "los conocimientos son como los oficios,—se parecen en mucho… en poco… en algo… ó no se parecen en nada; y cuando llega este último caso, es imposible fundarse en un conocimiento para hablar de otro con propiedad" [pp]. Dado que la afirmación se produce en una conversación entre letrados --y se dirige precisamente a quienes saben al menos "algo bien"--, podría pensarse que está retando el grado de erudición de sus lectores. Pero el desarrollo de la idea apunta más bien a visibilizar un hecho que la conversación letrada eludía programática y sistemáticamente: el carácter contingente de la subordinación del trabajo manual o "mecánico", a lo que ;;belloMemoriaCorrespondienteCurso llamaba "cultivo intelectual" [43].

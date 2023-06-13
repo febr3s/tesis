@@ -1,0 +1,33 @@
+title:          Las distintas clases de vulgo
+ID:             3416
+type:           md
+compile:        2
+charCount:      6279
+
+
+Aunque según el "Galeato", *Luces* está dedicada a la "juventud americana" y "dirigida a su instrucción" [;;Rod1834 pp], el eje del proyecto pedagógico de Rodríguez se fundaba en destruir la percepción fetichizada de la autoridad alfabética, que la tecnología impresa multiplicaba exponencialmente. En este sentido, es importante tener en cuenta que la decisión de imprimir de primero el que consideraba el "cuarto cuaderno" de su obra --la primera parte que imprimió, en 1828, estaba ubicada como el "Pródromo" del conjunto-- tuvo que ver con los intereses del intendente José Antonio Alemparte Vial.  ;;Rod1834 explica: 
+
+>[C]onociendo las buenas intenciones del autor, y (...) en beneficio de los Pueblos de América—(porque no piensa solo en el suyo).... [Alemparte Vial] proteje la publicacion de la obra; con condicion de que se anteponga la parte que trata de la enseñanza, aunque esta sea la cuarta en el órden de la exhibicion... así se va á hacer.
+
+Es decir, como señaló ;;Mondragon, Rodríguez se vio obligado a publicar de primero el que consideraba la última parte de su *magnus opum*, para poder acceder a los recursos que le permitieron reproducirlo mecánicamente [pp]. Más adelante detallaré los intereses que el intendente de Concepción podía tener en priorizar la publicación de un apartado dedicado a la "enseñanza", más allá de lo autoevidente. Ahora quiero precisar el sentido que Rodríguez le asigna la "enseñanza", en la presentación que hace para explicar el "plan" de su obra.
+
+![*Luces y virtudes sociales* (1834), p. 6](file:///home/febres/Pictures/Screenshots/Screenshot%20from%202023-05-09%2011-14-30.png)
+
+Debido a la negociación con el Intendente, el "plan de la obra" no coincide con la sucesión en la que aparecerá fechada. El cuarto tomo se publica de primero, y es  sobre los "medios que se deben emplear en la reforma / métodos, y modos de proceder en los métodos". Es decir que si la "enseñanza" es el tema de este "cuarto cuaderno", lo es en tanto "medio" para una reforma social. 
+
+Es en el ámbito de los "medios", "métodos" y "modos" era donde se concentraba el fetichismo impreso de la vanguardia ilustrada. Esta fue esencialmente la continuación mecanizada del valor "casi sacro" que tuvo la escritura a partir de la última mitad del siglo XVI en América Latina. Como explica Ángel Rama, la sacralización de la escritura como técnica en Hispanoamérica fue un efecto no previsto de las condiciones creadas por el imperio para difundir la contrarreforma <<-esto lo afirma Rama a partir de José Antonio Maravall, en un texto de 1975, es decir, debería buscar una referencia muchísimo más actualizada->>: aunque no estaba entre los propósitos expresos del imperio, el estímulo de la propaganda religiosa aumentó en la urbe americana las competencias discursivas, lo cual produjo una distancia cada vez mayor entre la lengua oficial colonial --peninsular y cortesana-- que escribía y leía un pequeño grupo, y la lengua codidiana --americana y plebeya-- hablada por las grandes mayorías analfabetas [pp]. 
+
+La dicotomía propuesta por Rama, entre una elite letrada y una plebe analfabeta, no se corresponde estrictamente con el funcionamiento verificable de la sociedad. Como muestra la investigación de ;;SorianoTides, entre la elite letrada y los analfabetos podía haber personas semiletradas, educadas en sistemas informales, o simplemente participantes de las discusiones públicas a través de medios no alfabéticos [pp]. Sin embargo, también es cierto que en el vocabulario y el marco conceptual de los letrados post-independentistas persistía la autopercepción como un grupo autorizado por su propio dominio de la lengua aceptada. En su fiebre ilustrada, esa elite construyó, mediante la función escrituraria, "la que Bolívar estigmatizó como una 'república aérea', prolongando en la Independencia el mismo desencuentro que se había conocido entre el *corpus* legal y la vida social" [;;Rama 53]. Porque lo que autorizaba a los letrados era, precisamente, el hecho de estar separados y diferenciarse de lo que Rodríguez llamaba el "populacho" o los "brutos" por su capacidad de leer y escribir [nota: de Soriano, los datos concretos]. 
+
+Por eso el primer gesto de Rodríguez en su "Galeato" apunta a demostrar la naturaleza contingente de la distancia que supuestamente separaba a sus lectores letrados del "populacho" y los "brutos". Esta era una distancia apoyada en dos siglos y medio de dominio político y militar más o menos estable, y en una serie de creencias, que fueron de orden religioso, pero cada vez más cientificista. Por eso Rodríguez comienza a demostrar la cercanía entre letrados y "brutos" a partir de una clasificación casi taxonómica, entre lo que llama las cinco "especies" de "Pueblo": 
+
+>Los hombres que conocen el mundo…
+(los ilustrados)
+Los que entienden de artes y ciencias…
+(los sabios)
+Los que estudian la sociedad…
+(los civilizados)
+y los que meditan sobre cuanto perciben….
+(los pensadores) [pp]
+
+Hay una quinta categoría, que es la más importante, en tanto es la que se opone a las otras cuatro. Es la categoría de los "brutos", que no se define en ese fragmento, porque, precisamente, las otras cuatro categorías  pertenecen a quienes podrían estar leyendo su tratado. En otras palabras, en esa enumeración, Rodríguez está definiendo a qué lectores se dirige: "las 4 especies de hombres útiles a la sociedad". Así aclara --o amplía--, a qué se refirió en su primera entrega cuando estableció que *Sociedades americanas en 1828* era una obra "dirigida al pueblo". Responde, específicamente, a lo que "han dicho algunos": "*Está muy bien*[...] *pero nada de eso prueba que el libro sea para el pueblo: en suma, se pueda sostener que el pueblo no lo entenderá*” [;;Rod1834 pp]. Rodríguez en 1834 responde que, si a la crítica le pareció que su entrega de 1828 no tenía las características necesarias para dirigirse al "Pueblo", es porque no tiene una idea clara de qué es el "Pueblo", y él se lo viene a explicar. Y se lo explica a quienes --según su propio criterio-- lo pueden entender: los civilizados, ilustrados, sabios y pensadores. Los mismos a quienes les ha sembrado la duda --"¿seré yo, señor?"-- cuando enfatiza que, entre las cinco "especies de hombres" que componen el pueblo, "hay una porcion que hace VULGO" [pp]. 

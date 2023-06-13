@@ -1,0 +1,131 @@
+{
+    "autoSave": false,
+    "autoSaveDelay": 5,
+    "autoSaveNoChanges": true,
+    "autoSaveNoChangesDelay": 5,
+    "corkBackground": {
+        "color": "#926239",
+        "image": "writingdesk"
+    },
+    "corkSizeFactor": 138,
+    "corkStyle": "new",
+    "countSpaces": true,
+    "defaultTextType": "md",
+    "dict": "PyEnchant:en_GB",
+    "dontShowDeleteWarning": false,
+    "folderView": "cork",
+    "frequencyAnalyzer": {
+        "phraseMax": 5,
+        "phraseMin": 2,
+        "wordExclude": "a, and, or",
+        "wordMin": 1
+    },
+    "fullScreenTheme": "newtheme_1",
+    "fullscreenSettings": {
+        "autohide-bottom": true,
+        "autohide-left": true,
+        "autohide-top": true,
+        "clock-show-seconds": true,
+        "progress-auto-show": true,
+        "title-show-full-path": true
+    },
+    "lastTab": 6,
+    "openIndexes": [
+        0,
+        [
+            "5107",
+            "2649",
+            "5083",
+            "4874",
+            "1380",
+            "3416",
+            "3243",
+            "923",
+            "3508",
+            "3147",
+            "1981",
+            "2993",
+            "4691",
+            "4090",
+            "4246",
+            "2115",
+            "1854",
+            "2050",
+            "2486",
+            "4510",
+            "890",
+            "3774",
+            "1668",
+            "4012"
+        ],
+        null
+    ],
+    "outlineViewColumns": [
+        0,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13,
+        7
+    ],
+    "progressChars": false,
+    "revisions": {
+        "keep": false,
+        "rules": {
+            "2592000": 86400.0,
+            "3600": 600.0,
+            "600": 60.0,
+            "86400": 3600.0,
+            "null": 604800.0
+        },
+        "smartremove": true
+    },
+    "saveOnQuit": true,
+    "saveToZip": true,
+    "spellcheck": false,
+    "textEditor": {
+        "alwaysCenter": false,
+        "background": "#ffffff",
+        "backgroundTransparent": false,
+        "cursorNotBlinking": true,
+        "cursorWidth": 1,
+        "focusMode": false,
+        "font": "Liberation Serif,19,-1,5,50,0,0,0,0,0",
+        "fontColor": "#000000",
+        "indent": true,
+        "lineSpacing": 200,
+        "marginsLR": 0,
+        "marginsTB": 20,
+        "maxWidth": 800,
+        "misspelled": "#F00",
+        "spacingAbove": 5,
+        "spacingBelow": 5,
+        "tabWidth": 20,
+        "textAlignment": 0
+    },
+    "viewMode": "simple",
+    "viewSettings": {
+        "Cork": {
+            "Background": "Nothing",
+            "Border": "Nothing",
+            "Corner": "Nothing",
+            "Icon": "Nothing",
+            "Text": "Nothing"
+        },
+        "Outline": {
+            "Background": "Nothing",
+            "Icon": "Nothing",
+            "Text": "Nothing"
+        },
+        "Tree": {
+            "Background": "Nothing",
+            "Icon": "Nothing",
+            "InfoFolder": "Nothing",
+            "InfoText": "Nothing",
+            "Text": "Nothing",
+            "iconSize": 24
+        }
+    }
+}
