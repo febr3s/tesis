@@ -1,3 +1,7 @@
+# El cálculo  pulpero y el monstruo social
+
+## Los principios de las cosas
+
 Como detallaré en próximo capítulo, lo que Rodríguez llega a caracterizar y relatar como proyecto concreto de "educación popular" está siempre enmarcado en un proyecto mucho más amplio, que responde al "asunto del día", en función de la amplia variedad de "castas" americanas. Este proyecto se condensa en la premisa "colonizar el país [el continente americano] con sus propios habitantes", y está bien resumido en la entrevista que redactó Manuel Uribe Ángel:
 
 > Mi gran proyecto por entonces consistía en poner en práctica un plan bastante meditado que estriba en colonizar la América con sus propios habitantes, para evitar lo que temo acontezca un día; es decir, que la invasión repentina de inmigrantes europeos más inteligentes que nuestro pueblo actual, venga a avasallarlo de nuevo y a tiranizarlo de un modo más cruel que el del antiguo sistema español [-@uribeangelLibertadorSuAyo1884 pp].

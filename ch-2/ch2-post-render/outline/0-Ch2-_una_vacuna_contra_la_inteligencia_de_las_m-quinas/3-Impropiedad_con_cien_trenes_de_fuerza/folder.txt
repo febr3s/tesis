@@ -1,7 +1,0 @@
-title:          Impropiedad con cien trenes de fuerza
-ID:             1728
-type:           folder
-compile:        2
-charCount:      43782
-
-

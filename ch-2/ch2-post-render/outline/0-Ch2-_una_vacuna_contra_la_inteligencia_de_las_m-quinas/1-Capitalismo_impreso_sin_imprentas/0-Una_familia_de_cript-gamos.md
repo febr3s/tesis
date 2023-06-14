@@ -1,6 +1,7 @@
----
-title:          Una familia de criptógamos
----
+# Capitalismo impreso sin imprentas
+
+## Una familia de criptógamos
+
 La distinción entre "masa", "pueblo" y "vulgo" se empieza a estructurar en la introducción a *Luces* (1834), llamada "Galeato". Rodríguez responde a una de las críticas que recibió *Sociedades* (1828): que, a pesar de que decía que era para el pueblo, "el pueblo no lo entenderá". Para rebatir a sus detractores, Rodríguez termina elaborando una distinción categórica, que se ancla en la distancia inconmensurable, entre los medios mecánicos de reproducción del Estado y los medios orgánicos de la masa para reproducir discursos y apropiarse de ellos. Al final de esta sección detallo cómo Rodríguez establece esta distinción, y en las siguientes secciones caracterizo cómo caracteriza la inconmensurabilidad técnica. Primero voy a referirme a un "cuadro" de 1842, en el que se sugiere cómo opera esa separación inconmensurable en la relación entre poblaciones racializadas y la elite impulsora del "capitalismo de imprenta". 
 
 El cuadro aparece en el *incipit* a su entrega más extensa de *Sociedades*, publicada en Lima en 1842^[ referencia al capítulo 1, donde se describe la secuencia en que se imprime el *magnus opum* *Sociedades americanas*]. Rodríguez plantea una comparación entre Hispanoamérica y dos naciones a la vanguardia del "capitalismo de imprenta": Francia e Inglaterra. Entre otras características, afirma que la primera tiene a la "clase media", la segunda tiene "el comercio" y la "aristocracia de nacimiento", mientras en Hispanoamérica:

@@ -1,6 +1,5 @@
----
-title:          Las distintas clases de vulgo
----
+## Las distintas clases de vulgo
+
 Aunque según el "Galeato", *Luces* está dedicada a la "juventud americana" y "dirigida a su instrucción" [@rodriguezSociedadesAmericanas18282018d pp], el eje del proyecto pedagógico de Rodríguez se fundaba en destruir la percepción fetichizada de la autoridad alfabética, que la tecnología impresa multiplicaba exponencialmente. En este sentido, es importante tener en cuenta que la decisión de imprimir de primero el que consideraba el "cuarto cuaderno" de su obra --la primera parte que imprimió, en 1828, estaba ubicada como el "Pródromo" del conjunto-- tuvo que ver con los intereses del intendente José Antonio Alemparte Vial.  @rodriguezSociedadesAmericanas18282018d explica: 
 
 >[C]onociendo las buenas intenciones del autor, y (...) en beneficio de los Pueblos de América—(porque no piensa solo en el suyo).... [Alemparte Vial] proteje la publicacion de la obra; con condicion de que se anteponga la parte que trata de la enseñanza, aunque esta sea la cuarta en el órden de la exhibicion... así se va á hacer.

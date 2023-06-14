@@ -1,3 +1,5 @@
+## Saberes como sopas de hueso
+
 Un ejemplo preciso de cómo operaba la impropiedad más allá del ámbito específico de los materiales impresos, pero anclada a él, está en el segundo párrafo de la "Conclusión" de *Luces*. Aquí Rodríguez alude a una campaña de opinión pública a favor de la restitución de la trata de esclavizados, que había sido abolida en Bolivia en la constitución bolivariana de 1826 <!--referencia-->:
 
 >No insulten la sana razón, haciendo pregonar papeles, por las calles, para disponer la opinion en favor del tráfico de negros—no ofendan al gobierno con indirectas, para que apoye una pretension tan opuesta á los principios de humanidad, que han consagrado las leyes modernas [-@rodriguezSociedadesAmericanas18282018d pp]

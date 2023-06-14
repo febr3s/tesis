@@ -1,6 +1,5 @@
----
-title:          Por encima del vulgo letrado
----
+## Por encima del vulgo letrado
+
 En *Luces* (1834), Rodríguez no especifica a qué se refiere con "vulgo", sino en relación a un tipo de circulación de discursos, cuando afirma "[s]e divulga todo lo que se difunde en el vulgo / por medio de pregones, carteles ó gacetas" [-@rodriguezSociedadesAmericanas18282018d pp]. Y a pesar de que "vulgo" es un concepto muy utilizado a lo largo de su obra impresa --y de que por lo general Rodríguez presta una atención obsesiva a especificar el sentido de ciertos términos--, en ninguna de las versiones de *Luces* llega a indicar a qué se refiere con el término exactamente. Pero haciendo una revisión diacrónica de "vulgo" en la obra completa de Rodríguez, se puede comprobar que el sentido en que lo emplea no tiene tanto que ver con el sujeto colectivo que señala el diccionario de autoridades de 1739 --"[e]l comun de la gente Popular, ù la Plebe (sic.)" [@DiccionarioAutoridades17261739]--, sino con el efecto de lo que Rodríguez llama "propagar errores" [-@rodriguezSociedadesAmericanas18282018d pp]. Es decir, no emplea "vulgo" para designar una condición de clase sino para señalar malos entendidos generalizados.
 
 [figura: estudio de concordancia]

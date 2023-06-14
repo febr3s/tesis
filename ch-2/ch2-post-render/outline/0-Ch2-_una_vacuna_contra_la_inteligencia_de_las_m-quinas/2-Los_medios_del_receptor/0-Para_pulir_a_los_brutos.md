@@ -1,6 +1,7 @@
----
-title:          Para pulir a los brutos
----
+# Los medios del receptor
+
+## Para pulir a los brutos
+
 Evidentemente, la idea de una escuela separada para grupos racializados <!--resolver esta discordancia categorial, decidiendo en algún punto decir esto en lugar de pardos--> es sumamente problemática por su naturaleza segrecacionista. Está, además, muy distante del programa radicalmente multirracial que Rodríguez propuso y practicó después de la independencia. Sin embargo el principio fundamental persiste en sus escritos posteriores: como veremos, Rodríguez reconoce la capacidad, la necesidad y la experiencia previa de los grupos marginados para participar de la esfera pública y la producción de conocimiento, pero no quiere que este ámbito orgánico se desarrolle de forma autónoma y separada de las instituciones, sino de la mano con un plan rector --el suyo--, y engranado con las instituciones sociales.  Rodríguez estaba muy consciente de que ese movimiento no tenía nada de modesto. Su programa partía de una voluntad democratizadora, pero asumía una perspectiva  que se elevaba, no solo sobre los "brutos", sino sobre lo que, a partir de sus categorías, podemos llamar "vulgo letrado". 
 
 Sin embargo, la primera sección del "Galeato" en *Luces* parece reafirmar la certeza jerárquica fundamental, que separaba a quienes dominaban la técnica de la lecto-escritura y/o tenían acceso a la letra impresa, de quienes no habían recibido educación. Aquí las expresiones de Rodríguez sobre los "brutos" son, de hecho, especialmente vitriólicas:

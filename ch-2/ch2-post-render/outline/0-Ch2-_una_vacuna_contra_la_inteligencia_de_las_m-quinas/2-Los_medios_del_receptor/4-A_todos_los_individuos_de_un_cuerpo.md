@@ -1,3 +1,5 @@
+## A todos los individuos de un cuerpo
+
 Rodríguez especifica algunos de los "medios" que le preocupan en el "cuadro" que sigue al párrafo donde  compara el filólogo con el soldado.
 
 ![*Luces* (1842), p. 1](file:///home/febres/Pictures/Screenshots/jeneralizar.png)

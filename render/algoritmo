@@ -5,25 +5,25 @@
 4.01 - arreglar citas con el nombre separado del número de página [x]
 4.1 - crear notas al pie [x]
 4.2 - cambiar <<- ->> a <!-- --> [x]
+4.3 - hacer exportación de prueba y corregir los errores que interrumpen el proceso
 5 - comprimir a manuskript [x]
 6 - cambiar doble punto y coma por arroba en links a citas en Zettler [x]
 6.1 - remover metadata [x]
 6.2 - remover line breaks de más [x]
-6.3 - eliminar archivo "folder"
+6.3 - eliminar archivo "folder" [x]
+6.31 - agregar headers y subheaders [x]
 6.4 - crear folder project en zettlr [x]
 7 - Exportar a word [x]
 7.1 - Mover texto exportado a plantilla mla [x]
-8 - Chequear exportación de citas
-9 - Corregir en Manuskript citas mal exportadas
+8 - Imprimir y corregir
+9 - Corregir en Manuskript y Zotero
 10 - Descomprimir
-11 - Repetir de 6 a 8 hasta que no haya citas mal exportadas
-12 - Exportar a word
-13 - Chequear formato de bibliografía exportada
-14 - Corregir en Zotero
-15 - Repetir 12 a 14 hasta que no haya bibliografía con errores 
-16 - Imprimir
-17 - Corregir
+11 - Re-procesar para Zettlr
+    - ;; por @
+    - Eliminar metadata y crear headers y subheaders
+    - Eliminar archivos "folder"
+    - Crear carpetas de introducción y conclusión
+    - Eliminar espacio adicional
 18 - Comprimir
-19 - Crear versión sin comentarios
 20 - Exportar
 21 - Enviar
