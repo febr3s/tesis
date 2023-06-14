@@ -1,0 +1,5 @@
+Idea:                #ffff00
+Nota:                #00ff00
+Capítulo:            #0000ff
+Escena:              #ff0000
+Investigación:       #00ffff

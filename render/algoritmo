@@ -9,7 +9,8 @@
 6 - cambiar doble punto y coma por arroba en links a citas en Zettler [x]
 6.1 - remover metadata [x]
 6.2 - remover line breaks de más [x]
-6.2 - crear folder project en zettlr [x]
+6.3 - eliminar archivo "folder"
+6.4 - crear folder project en zettlr [x]
 7 - Exportar a word [x]
 7.1 - Mover texto exportado a plantilla mla [x]
 8 - Chequear exportación de citas

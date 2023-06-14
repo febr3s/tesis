@@ -1,0 +1,7 @@
+title:          El cálculo  pulpero y el monstruo social
+ID:             2115
+type:           folder
+compile:        2
+charCount:      36926
+
+
