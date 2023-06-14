@@ -1,7 +1,11 @@
 1 - Unificar links a citas [x]
 2 - reemplazar por links a nomenclatura zotero [x]
-3 - hacer los find and replace indicados 
-4 - corrección ortográfica en Zettlr
+3 - hacer los find and replace indicados [x]
+4 - corrección ortográfica en Zettlr [x]
+4.01 - arreglar citas con el nombre separado de la página [x]
+4.1 - crear notas al pie 
+4.2 - cambiar <<- ->> a <!-- -->
+4.3 - enlazar biblioteca de zotero
 5 - comprimir a manuskript
 6 - cambiar doble punto y coma por arroba en links a citas en Zettler
 7 - Exportar a word
