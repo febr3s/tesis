@@ -2,12 +2,12 @@
 2 - reemplazar por links a nomenclatura zotero [x]
 3 - hacer los find and replace indicados [x]
 4 - corrección ortográfica en Zettlr [x]
-4.01 - arreglar citas con el nombre separado de la página [x]
-4.1 - crear notas al pie 
-4.2 - cambiar <<- ->> a <!-- -->
-4.3 - enlazar biblioteca de zotero
+4.01 - arreglar citas con el nombre separado del número de página [x]
+4.1 - crear notas al pie [x]
+4.2 - cambiar <<- ->> a <!-- --> [x]
 5 - comprimir a manuskript
 6 - cambiar doble punto y coma por arroba en links a citas en Zettler
+6.1 - remover metadata
 7 - Exportar a word
 8 - Chequear exportación de citas
 9 - Corregir en Manuskript citas mal exportadas
