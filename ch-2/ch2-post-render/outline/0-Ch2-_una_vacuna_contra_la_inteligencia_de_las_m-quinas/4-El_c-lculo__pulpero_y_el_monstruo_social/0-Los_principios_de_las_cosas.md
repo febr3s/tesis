@@ -12,7 +12,7 @@ Un ejemplo de esta tensión, entre un modelo educativo de aplicabilidad dudosa, 
 
 1) El siguiente "cuadro", presentado como "axioma":
 
-> [figura: NO HAI facultades INDEPENDIENTES / siendo así / no hay facultad propia / que pueda ejercerse sin el concurso / de facultades ajenas]
+![](file:///home/febres/Pictures/Screenshots/facultades.png)
 
 2)   Un segundo y cuarto "cuadros", en los que propone 144 variaciones del primero, para convertir el axioma en "problema"^[  explicación de la cuenta de 144 variaciones, y de las siguientes cuentas]
 
