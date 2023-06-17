@@ -6,7 +6,7 @@ Como detallaré en próximo capítulo, lo que Rodríguez llega a caracterizar y 
 
 > Mi gran proyecto por entonces consistía en poner en práctica un plan bastante meditado que estriba en colonizar la América con sus propios habitantes, para evitar lo que temo acontezca un día; es decir, que la invasión repentina de inmigrantes europeos más inteligentes que nuestro pueblo actual, venga a avasallarlo de nuevo y a tiranizarlo de un modo más cruel que el del antiguo sistema español [-@uribeangelLibertadorSuAyo1884 pp].
 
-Toda la dialegmática de Rodríguez está atravesada por la inconmensurabilidad discursiva de las "castas" y "los que andan de salón en salón" que se presenta en el "cuadro" de los "criptógamos". Pero el plan de colonización extrapola el problema 
+Toda la dialegmática de Rodríguez está atravesada por la inconmensurabilidad discursiva de las "castas" y "los que andan de salón en salón" que se presenta en el "cuadro" de los "criptógamos". Pero el plan de colonización atiende el problema de la "impropiedad" en una dimensión donde sus consecuencias materiales son más evidentes.
 
 Pero en un sentido más amplio, el principio de inoculación que Rodríguez promovía para la "instrucción social" se extrapolaba a la expansión y multiplicación de las "castas" por el territorio. Este es el proyecto que se condensa en 
 
