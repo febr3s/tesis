@@ -1,29 +1,16 @@
 1 - Unificar links a citas [x]
-2 - reemplazar por links a nomenclatura zotero [x]
 3 - hacer los find and replace indicados [x]
-4 - corrección ortográfica en Zettlr [x]
+4 - corrección ortográfica [x]
 4.01 - arreglar citas con el nombre separado del número de página [x]
-4.1 - crear notas al pie [x]
-4.2 - cambiar <<- ->> a <!-- --> [x]
-4.3 - hacer exportación de prueba y corregir los errores que interrumpen el proceso
-5 - comprimir a manuskript [x]
-6 - cambiar doble punto y coma por arroba en links a citas en Zettler [x]
-6.1 - remover metadata [x]
-6.2 - remover line breaks de más [x]
-6.3 - eliminar archivo "folder" [x]
-6.31 - agregar headers y subheaders [x]
-6.4 - crear folder project en zettlr [x]
 7 - Exportar a word [x]
 7.1 - Mover texto exportado a plantilla mla [x]
 8 - Imprimir y corregir
 9 - Corregir en Manuskript y Zotero
-10 - Descomprimir
-11 - Re-procesar para Zettlr
-    - ;; por @
-    - Eliminar metadata y crear headers y subheaders
-    - Eliminar archivos "folder"
-    - Crear carpetas de introducción y conclusión
-    - Eliminar espacio adicional
-18 - Comprimir
 20 - Exportar
 21 - Enviar
+
+Precauciones
+
+4.1 - crear notas al pie [x]
+4.2 - cambiar <<- ->> a <!-- --> [x]
+6.31 - agregar headers y subheaders [x]
