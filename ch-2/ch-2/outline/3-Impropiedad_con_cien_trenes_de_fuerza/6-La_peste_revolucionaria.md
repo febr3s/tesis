@@ -1,0 +1,29 @@
+title:          La peste revolucionaria
+ID:             18
+type:           md
+compile:        2
+setGoal:        1000
+charCount:      5719
+
+
+## La peste revolucionaria
+
+Como detallaré en próximo capítulo, lo que Rodríguez llega a caracterizar y relatar como proyecto concreto de "educación popular" es inseparable de una aspiración más amplia, que responde más directamente al "asunto del día": el "orden público" y las "muchas castas" americanas. Me refiero al plan condensado en la premisa "colonizar el país [el continente americano] con sus propios habitantes" en 1830, 1840 y 1842. Esta se presenta en la "Nota" anexa a *El Libertador* en 1830 y se resume en la entrevista del "Juramento":
+
+> Mi gran proyecto por entonces consistía en poner en práctica un plan bastante meditado que estriba en colonizar la América con sus propios habitantes, para evitar lo que temo acontezca un día; es decir, que la invasión repentina de inmigrantes europeos más inteligentes que nuestro pueblo actual, venga a avasallarlo de nuevo y a tiranizarlo de un modo más cruel que el del antiguo sistema español [-@uribeangelLibertadorSuAyo1884 pp].
+
+Toda la dialegmática de Rodríguez está atravesada por la inconmensurabilidad discursiva de las "castas" y "los que andan de salón en salón" que se presenta en el "cuadro" de los "criptógamos". Pero el plan de colonización atiende el problema de la "impropiedad" en una dimensión donde sus consecuencias materiales son más evidentes: las "castas" "propias" --"nuestras"– serían avasalladas y tiranizadas por quienes portaban la ventaja técnico-cultural en la dialegmática dominante. Claro que en este plan, nivelar la "inteligencia" de la masa criptógama con la de los posibles "invasores" europeos era uno de los componentes fundamentales. Y ahí se cifra el disenso fundamental del proyecto de Rodríguez frente al de la vanguardia ilustrada, que apostó a importar y reproducir gente como apostó a importar y reproducir libros. 
+
+Lo que plantea Rodríguez alrededor de la dialegmática no es una discusión ideológica: se trata de una propuesta de administración de las poblaciones y la vida. El cuadro de los criptógamos emplea el abigarramiento léxico, tipográfico y metafórico para escenificar la enorme desigualdad de base hacia la lucha entre inteligencias que preveía su programa de colonización: una minoría calcada de Europa conocía la lengua pública, mientras la gran mayoría permanecía ajena a ella. Su propuesta de "educación popular" apuntaba a equilibrar esa lucha. Y para subrayar el punto en que los discursos adquieren la densidad de los cuerpos eligió un tropo inmunitario para definir el "remedio" a la "epidemia".
+
+>Es probable, que nunca se llegue á conocer exactamente el conjunto de ajentes, acciones y circunstancias, que hace estrellar una misma epidemia en tal lugar y nó en otro.... ni el por qué  los mismos remedios obran eficazmente en unos casos, y pierden sueficacia en otros iguales; pero! no es así con las Revoluciones:—se conoce la causa que es la ignorancia de unas cosas que todos pueden saber distinguir—y se conoce el remedio que es la Instruccion Social, dada en todas las épocas de la vida, especialmente en la primera [pp].
+
+La analogía médica sugiere un cálculo: Rodríguez convoca los poderes racionalizadores de la lengua para proponer una identidad u homología entre los discursos y los cuerpos. El cuerpo social está enfermo. Pero, a diferencia de la peste, que por su propia naturaleza es siempre al menos parcialmente indetectable, el "principio de desorden" podría ser contenido si los medios de la masa criptógama fueran conmensurables con los medios de la sociedad. Es decir, si tuviesen en sus "manos" los medios del conocimiento social válido. Los agentes de la revolución y del desorden lo son solo porque los medios de la sociedad son "impropios". El virus se llama "ignorancia de las cosas públicas", se  la enfermedad se llama "revoluciones" y el remedio se llama "intrucción social".
+
+>Por la vacuna no hacen ya las viruelas los estragos que hacían ántes--por la Instruccion social se llegaría á desterrar la ignorancia de las cosas públicas.... causa de todos los males que traen las revoluciones, y de las revoluciones mismas [-@rodriguezSociedadesAmericanas18282018d pp] 
+
+Como en una didascalia teatral, entre paréntesis, cursivas, negrillas y una fuente más pequeña, Rodríguez hace manifiesto el objetivo pedagógico y persuasivo de la analogía: "( ***todos tienen horror á las viruelas: comparando con ellas se hará, tal vez, mas efecto que con otras cosas*** )" [-@rodriguezSociedadesAmericanas18282018d pp]. Sin embargo, no deja pasar el tropo sino que se detiene en él, y teoriza su "remedio" a partir del paralelo que habilita la historización de la vacuna: desde la inoculación en la antigüedad,  hasta llegar a "nuestros días", cuando
+  
+  >Jenner(...) introduce la Vacuna: su práctica, superior á la antigua, tranquiliza los ánimos: los Gobiernos, por amor á los Pueblos, y las Madres, por amor á sus Hijos, ocurren á un preservativo tan favorable á la conservacion de la especie,—y los niños se vacunan, como se circundaban antiguamente.... muy temprano: ¿por qué no se tiene igual cuidado en injerirles la doctrina social; ántes que recojan, en las calles, la que exhalan los mercados y las tiendas? [-@rodriguezSociedadesAmericanas18282018d pp].
+
+Del mismo modo que el contagio voluntario de *cowpox* había creado los anticuerpos para inmunizar a los individuos contra la viruela, Rodríguez quería contagiar "con arte" al cuerpo republicano del cotilleo popular, para hacerlo inmune a una rebelión de las masas "ignorante de las cosas públicas". Era esa rebelión la que se gestaba a espaldas del horizonte utópico que postulaba la "perfecta intelijencia de las máquinas". Y hacia su conjura se orientaba el programa de Rodríguez, con la vista puesta en "los siglos venideros".
