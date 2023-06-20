@@ -3,7 +3,7 @@ ID:             16
 type:           md
 compile:        2
 setGoal:        1000
-charCount:      7155
+charCount:      7138
 
 
 ## El principio de desorden
@@ -18,7 +18,7 @@ El "exaltar al pueblo" para "servirse de él en ese estado" es lo que Susana Rot
 
 ![](file:///home/febres/Pictures/Screenshots/sed-riqueza.png)
 
-En el próximo capítulo me referiré a lo que Rodríguez llama "colonomanía" y "cultomanía". Por ahora me interesa volver a la relación que propone Rotker, porque llamar "tráfico" la mediación tergiversadora de la "clase intermedia", @rotkerBravoPuebloPoder2005 aproxima el fenómeno al régimen trópico de Rodríguez, donde frecuentemente se trata la circulación de signos como circulación de mercancías. Por ejemplo, Rodríguez escribe: "¿[c]ual será la verdad tan feliz, que no tropiece con un necio entre sus censores?.... ¿entre esos hombres (buenos ó malos) á quienes la autoridad, ó la opinion pública, ha conferido el empleo de vistas en la aduana literaria?" [-@rodriguezSociedadesAmericanas18282018d pp]. Es decir, propone que el censor, con el que  la "verdad" tropieza, es como un "[e]mpleado de aduanas a cuyo cargo está el control de las mercancías" [@asaleVistaDiccionarioLengua]. Y el poder que selecciona lo que puede formar parte de lo público en el ecosistema de medios mecánicos es una "aduana literaria". 
+En el próximo capítulo me referiré a lo que Rodríguez llama "colonomanía" y "cultomanía". Por ahora me interesa volver a la relación que propone Rotker, porque llamar "tráfico" la mediación tergiversadora de la "clase intermedia", @rotkerBravoPuebloPoder2005 aproxima el fenómeno al régimen trópico de Rodríguez, donde frecuentemente se trata la circulación de signos como circulación de mercancías. Por ejemplo, Rodríguez escribe: "¿[c]ual será la verdad tan feliz, que no tropiece con un necio entre sus censores?.... ¿entre esos hombres (buenos ó malos) á quienes la autoridad, ó la opinion pública, ha conferido el empleo de vistas en la aduana literaria?" [-@rodriguezSociedadesAmericanas18282018d pp]. Es decir, propone que el censor, con el que  la "verdad" tropieza, es como un "[e]mpleado de aduanas a cuyo cargo está el control de las mercancías" [@asaleVista]. Y el poder que selecciona lo que puede formar parte de lo público en el ecosistema de medios mecánicos es una "aduana literaria". 
 
 Lo que inquieta a Rodríguez del "tráfico de la palabra" no es la falta de libertad para la circulación de discursos --cuya restricción promueve en la mayoría de sus impresos--, sino los riesgos que esta libertad acarrea en el modelo del capitalismo de imprenta. Lo que revela la muy probable necedad de los censores no es tanto la dificultad para hacer circular los discursos como el "principio de desorden" en la autoridad o la opinión pública, que pone a un "necio" a cargo de las "vistas" en la "aduana literaria". Justamente, tener a la necedad a cargo de definir qué discursos, cómo y cuándo se divulgan y se validan es la condición de posibilidad para darle poder y legitimidad a la estafa. "Con los conocimientos, divulgados hasta aquí, se ha conseguido que los Usurpadores, los Estafadores, los Monopolistas y los Abarcadores, obren legalmente", imprimó en la primera parte de *Luces*.  Y remató esta idea proponiendo una analogía simétrica entre la falsificación del dinero y los discursos impropios:
 

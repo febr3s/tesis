@@ -1,0 +1,1 @@
+pandoc --citeproc output.md --bibliography="../../my_library.json" -o output.docx
