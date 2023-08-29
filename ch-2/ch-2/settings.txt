@@ -32,9 +32,7 @@
     "lastTab": 6,
     "openIndexes": [
         0,
-        [
-            "31"
-        ],
+        [],
         null
     ],
     "outlineViewColumns": [

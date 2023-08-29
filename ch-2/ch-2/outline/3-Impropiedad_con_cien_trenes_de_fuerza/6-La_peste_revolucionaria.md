@@ -3,12 +3,12 @@ ID:             18
 type:           md
 compile:        2
 setGoal:        1000
-charCount:      5719
+charCount:      5780
 
 
 ## La peste revolucionaria
 
-Como detallaré en próximo capítulo, lo que Rodríguez llega a caracterizar y relatar como proyecto concreto de "educación popular" es inseparable de una aspiración más amplia, que responde más directamente al "asunto del día": el "orden público" y las "muchas castas" americanas. Me refiero al plan condensado en la premisa "colonizar el país [el continente americano] con sus propios habitantes" en 1830, 1840 y 1842. Esta se presenta en la "Nota" anexa a *El Libertador* en 1830 y se resume en la entrevista del "Juramento":
+Como detallaré en próximo capítulo, lo que Rodríguez llega a caracterizar y relatar como proyecto concreto de "educación popular" es inseparable de una aspiración más amplia, que responde más directamente al "asunto del día": el "orden público" y las "muchas castas" americanas. Me refiero al plan condensado en la premisa "colonizar el país [el continente americano] con sus propios habitantes" en 1830, 1840 y 1842. Esta se presenta por primera vez en la "Nota" anexa a *El Libertador* en 1830,  se articula como "proyecto de ley" en 1842 y se resume en la entrevista del "Juramento":
 
 > Mi gran proyecto por entonces consistía en poner en práctica un plan bastante meditado que estriba en colonizar la América con sus propios habitantes, para evitar lo que temo acontezca un día; es decir, que la invasión repentina de inmigrantes europeos más inteligentes que nuestro pueblo actual, venga a avasallarlo de nuevo y a tiranizarlo de un modo más cruel que el del antiguo sistema español [-@uribeangelLibertadorSuAyo1884 pp].
 

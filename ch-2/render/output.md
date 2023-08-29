@@ -1,40 +1,40 @@
 ---
 title: Una vacuna contra la inteligencia de las máquinas
-lang: es
 ---
 
 # Introducción
 
-Los tipos móviles se organizaron en las planchas de la imprenta tal, uno
-detrás de otro en 1826, en la Poland Street de Londres: "p", "e", "r",
-"f", "e", "c", "t", "a", " ","i", "n", "t", "e", "l", "i", "g", "e",
-"n", "c", "i", "a", " ","d", "e", " ","l", "a", "s", " ","m", "á", "q",
-"u", "i", "n", "a", "s". Ni el impresor, G. Schulz, ni los editores,
-Andrés Bello y Juan García del Río, podían imaginarse la resonancia que
-el término "perfecta intelijencia de las máquinas" tendría en la
-conversación global de 2023. Como se sabe, este es el año en que un
-pánico mediático siguió al lanzamiento de ChatGTP: un algoritmo de
-predicción, generativo, que --por momentos-- da al usuario la ilusión de
-estar interactuando con una máquina "inteligente". Es decir, es capaz de
-producir respuestas del más alto estándar académico en tiempo
-récord[^1].
+Los tipos móviles se organizaron en 1826, en la Poland Street de
+Londres: "p", "e", "r", "f", "e", "c", "t", "a", "&;nbsp", "i", "n",
+"t", "e", "l", "i", "g", "e", "n", "c", "i", "a", ";&nbsp", "d", "e",
+";&nbsp", "l", "a", "s", ";&nbsp", "m", "á", "q", "u", "i", "n", "a",
+"s". Ni el impresor, G. Schulz, ni los editores, Andrés Bello y Juan
+García del Río, podían imaginarse la resonancia que el término "perfecta
+intelijencia de las máquinas" tendría en la conversación global de 2023.
+Como se sabe, este es el año en que un pánico mediático siguió al
+lanzamiento de ChatGTP: un algoritmo de predicción, generativo, que
+--por momentos-- da al usuario la ilusión de estar interactuando con una
+máquina "inteligente". Es decir, un objeto técnico capaz de producir
+respuestas del más alto estándar académico en tiempo récord[^1].
 
-Bello usó el término en los números 2 y 3 de su proyecto editorial
-trasatlántico, *Repertorio americano*: la revista de 1356 páginas
---distribuidas en cuatro números-- que imprimió en Londres junto a Juan
-García del Río entre 1826 y 1827, y que distribuyeron en París, Viena
-México, y otros puntos nunca precisados del subcontinente
-hispanoamericano[^2]. Apareció en la única reseña que se repite en la
-sección "Boletín Bibliográfico" en más de un número: la de *Guide du
-mécanicien, ou principes fondamenteux de mécanique expérimentale et
-théorique appliquées à la composition et à l'ussage des machines*, de
+Bello y García del Río usaron el término en los números 2 y 3 de su
+proyecto editorial trasatlántico, *Repertorio americano*: la revista de
+1356 páginas --distribuidas en cuatro números-- que imprimieron en
+Londres entre 1826 y 1827, y que distribuyeron en París, Viena México, y
+otros puntos nunca precisados del subcontinente hispanoamericano[^2].
+Apareció en la única reseña que se repite en la sección "Boletín
+Bibliográfico" en más de un número: la de *Guide du mécanicien, ou
+principes fondamenteux de mécanique expérimentale et théorique
+appliquées à la composition et à l'ussage des machines*, de
 Pierre-Henrri Suzanne. Tomada de la *Revu Encyclopedique*, la reseña
 promueve uno de los libros que formó parte de un *boom* editorial en
 Francia entre 1820 y 1840, de libros dedicados a la divulgación de
 ciencias aplicadas a la industria [@chatzisProduirePublierOuvrages2022
-11, 125]. En medio de una frase laudatoria para el libro de dos
-volúmenes los editores aseguran: "\[b\]ien sabido es que no basta
-describir cuidadosamente las máquinas mas injeniosas e importantes"
+11, 125].
+
+En medio de una frase laudatoria para el libro de dos volúmenes los
+editores aseguran: "\[b\]ien sabido es que no basta describir
+cuidadosamente las máquinas mas injeniosas e importantes"
 [@belloBoletinBibliografico1826 pp]. Así, una inversión metonímica le
 adjudica ingenio a las máquinas: el ingenio de la sociedad y los
 individuos que producen esas máquinas. De este régimen trópico nace el
@@ -81,30 +81,32 @@ apropiación de la plebe, con sus marcas de distinción e invención.
 El vocabulario con que describo el proceso de formación del "capitalismo
 de imprenta" proviene de Roger Chartier, quien subraya la agencia de la
 masa sobre la formación de la cultura impresa europea. Chartier
-introdujo el concepto de "apropiación" para describir mecanismos
-orgánicos empleados por la plebe para apropiarse de los discursos
-mecánicos reproducidos por la elite. Esto permite historizar la
+introdujo el concepto de "apropiación" para describir estrategias
+orgánicas empleadas por la plebe para apropiarse de los discursos
+mecanizados reproducidos por la elite. Esto permite historizar la
 formación de la cultura impresa europea como una serie de choques y
 negociaciones entre dos fuerzas mediadas por la lectura alfabética: la
 voluntad disciplinaria y homogenizadora de los poderes concentrados, por
 un lado, y las potencias populares de distinción e invención, por
-otro[^4]. Esta historización me interesa por dos motivos. Primero, es
-una clave para leer uno de los *tracks* constantes de la obra de
-Rodríguez, que es la historización de su propia reproducción y
-recepción. Esto es patente especialmente en el objeto en que me
-concentro aquí: la segunda entrega impresa de *Sociedades americanas*,
-que se llamó *Luces y virtudes sociales*, y fue publicada en 1834 en
-Concepción, y en 1840 en Valparaíso[^5]. La versión de 1834 abre con el
-análisis de algunas observaciones, críticas y lecturas que había
-recibido su entrega anterior, *Sociedades americanas en 1828: cómo serán
-y cómo podrían ser en los siglos venideros* (1828). De uno de estos
-análisis surge e conduce al segundo motivo por el que la historización
-de Chartier me sirve para leer la crítica al "capitalismo de imprenta"
-hispanoamericano que atraviesa los objetos impresos de Rodríguez. Me
-refiero a la distinción categórica que Rodríguez hace entre "pueblo",
-"masa" y "vulgo". De esas distinciones emerge la alerta que Rodríguez
-formula sobre el "monstruo social" que se forma a la sombra de la
-"perfecta intelijencia de las máquinas".
+otro[^4].
+
+Esta historización me interesa por dos motivos. Primero, es una clave
+para leer uno de los *tracks* constantes de la obra de Rodríguez, que es
+la historización de su propia reproducción y recepción. Esto es patente
+especialmente en el objeto en que me concentro aquí: la segunda entrega
+impresa de *Sociedades americanas*, que se llamó *Luces y virtudes
+sociales*, y fue publicada en 1834 en Concepción, y en 1840 en
+Valparaíso[^5]. La versión de 1834 abre con el análisis de algunas
+observaciones, críticas y lecturas que había recibido su entrega
+anterior, *Sociedades americanas en 1828: cómo serán y cómo podrían ser
+en los siglos venideros* (1828). De uno de estos análisis surge el
+segundo motivo por el que la historización de Chartier me sirve para
+leer la crítica al "capitalismo de imprenta" hispanoamericano que
+atraviesa los objetos impresos de Rodríguez. Me refiero a la distinción
+categórica que Rodríguez hace entre "pueblo", "masa" y "vulgo". De esas
+distinciones emerge la alerta que Rodríguez formula sobre el "monstruo
+social" que se forma a la sombra de la "perfecta intelijencia de las
+máquinas".
 
 # Capitalismo impreso sin imprentas
 
@@ -135,6 +137,7 @@ segunda tiene "el comercio" y la "aristocracia de nacimiento", mientras
 en Hispanoamérica:
 
 ![](file:///home/febres/Pictures/Screenshots/jentuza.png)
+![](file:///home/febres/Pictures/Screenshots/secreto.png)
 
 ```{=html}
 <!--Con este cuadro me iré adentrando en la crítica de Rodríguez al "capitalismo de imprenta", y en esa media iré detallando los elementos léxicos de su abigarrada composición textual. Por ahora me refiero solo al-->
@@ -147,8 +150,9 @@ media, nobleza y comerciantes, sino una suma heterogénea de etnicidades,
 racialidades impuestas y poblaciones estigmatizadas. Por su parte, la
 vanguardia ilustrada, epígono de la nobleza, el comercio y la clase
 media, en franca minoría, habla una lengua pública que no entiende --ni
-traducida-- el cuerpo social que podría darle forma al nuevo sistema. El
-término paraguas de "criptógamos" para referirse a las poblaciones
+traducida-- el cuerpo social que podría darle forma al nuevo sistema.
+
+El término paraguas de "criptógamos" para referirse a las poblaciones
 racializadas, por otra parte, sugiere la reversibilidad de esta
 incomprensión. "Criptógamo" es una categoría botánica, hoy en desuso,
 que se empleó para referirse a las especies vegetales o fungui cuyo
@@ -384,9 +388,9 @@ es preciso en el régimen trópico de Rodríguez, que en 1828 recordaba que
 "no hay buenas tropas sin buena disciplina"[^17].
 
 A ese horizonte apunta la primera versión de *Luces y virtudes
-sociales*. Lo imprimió en la Imprenta del Instituto Literario de
+sociales*. La imprimió en la Imprenta del Instituto Literario de
 Concepción (Chile), patrocinado por el intendente de la ciudad. Lo
-presentó cMeomo el "cuarto cuaderno" de su obra por entregas *Sociedades
+presentó como el "cuarto cuaderno" de su obra por entregas *Sociedades
 americanas*, y le dedicó más de seis párrafos a detallar todas las
 dificultades que había enfrentado para publicarlo. "El autor de
 *sociedades americanas* es pobre (...)\[,\] no tiene amigos sabios con
@@ -411,8 +415,8 @@ regían la validación de los discursos. La "advertencia" que Rodríguez
 imprimió en su libro de 1830, *El Libertador del Mediodía de América y
 sus compañeros de armas defendidos por un amigo de la causa social* es
 un buen indicador de cómo en 1828, estar escrito no era por sí solo un
-atributo que delimitara el mundo válido de la "ciudad letrada". Y de que
-para circular con pleno prestigio y legitimidad los discursos ahora
+atributo que delimitara el mundo válido de la vanguardia ilustrada. Y de
+que para circular con pleno prestigio y legitimidad los discursos ahora
 tenían que estar impresos:
 
 > El que desprecie este escrito, porque no va impreso, acuérdese que el
@@ -665,17 +669,20 @@ la profesion favorita de los pueblos"
 [-@rodriguezSociedadesAmericanas18282018d pp]. Es decir, no duda en
 caracterizar a la clase educada como el mal menor, y como una suerte de
 mínimo deseable de comprensión y conocimiento del interés común,
-fundamentalmente para preservar el orden social. Nuevamente: aunque su
-escrito de 1794 sobre la escuela de primeras letras es en muchos
-sentidos conservador, se rige por un principio al menos análogo al de
-1834. Pues en 1794, Rodríguez proponía fundar una escuela formal para
-los grupos racializados, y en consecuencia ampliar la esfera de lo
-público hacia un ámbito de socialización de conocimientos que estos
-grupos ya habían creado orgánicamente. Y lo que propone en 1834 es, en
-gran medida, una extrapolación de ese principio a una teoría
-dialegmática para todas las "sociedades americanas". Solo que ahora, por
-encima de la escuela, aunque atravesándola y apoyándose en ella, estaba
-la tecnología articuladora del "capitalismo impreso"
+fundamentalmente para preservar el orden social. Lo que trata de
+demostrar es que su fiebre con la reproducción mecánica los hace
+"alucinar"[^29]
+
+Nuevamente: aunque su escrito de 1794 sobre la escuela de primeras
+letras es en muchos sentidos conservador, se rige por un principio al
+menos análogo al de 1834. Pues en 1794, Rodríguez proponía fundar una
+escuela formal para los grupos racializados, y en consecuencia ampliar
+la esfera de lo público hacia un ámbito de socialización de
+conocimientos que estos grupos ya habían creado orgánicamente. Y lo que
+propone en 1834 es, en gran medida, una extrapolación de ese principio a
+una teoría dialegmática para todas las "sociedades americanas". Solo que
+ahora, por encima de la escuela, aunque atravesándola y apoyándose en
+ella, estaba la tecnología articuladora del "capitalismo impreso"
 
 # Los medios del receptor
 
@@ -729,7 +736,7 @@ parte dos tipos de objeto reproducidos mecánicamente: la gaceta y el
 cartel. Pero aún más significativa es la inclusión del pregón en esta
 serie, pues indica que el concepto de "extender con ARTE" no apunta
 simplemente a reafirmar o invertir una relación jerárquica entre la
-oralidad y la escritura mecánicamente reproducida[^29]. El pregón no es
+oralidad y la escritura mecánicamente reproducida[^30]. El pregón no es
 un discurso reproducido por máquinas como el cartel y la gaceta, pero,
 como lo entiende @rodriguezSociedadesAmericanas18282018a, la "monotonía"
 de la reproducción mecánica --definida por él como "un mismo tono"--
@@ -745,7 +752,7 @@ monotonía se transmite como repetición uniforme en la oralidad, tal como
 ocurre en el pregón, y en el "tonillo de la Escuela", con el que los
 literatos "adormecen al que los oye". Por eso la superación de la
 monotonía es uno de los pilares para justificar el gasto que el arte de
-pintar palabras (a.p.p.) requiere[^30].
+pintar palabras (a.p.p.) requiere[^31].
 
 > \[figura: Ahorrar papel es ahorrar expresión; y el lector, en lugar de
 > despertar la atencion / por la variedad de tonos y de tiempos,... la
@@ -753,7 +760,7 @@ pintar palabras (a.p.p.) requiere[^30].
 
 El isocronismo, define brevemente Rodríguez en una nota al pie en 1828,
 es en principio "tiempos
-iguales"[-@rodriguezSociedadesAmericanas18282018a]`<!--  -->`{=html}[^31].
+iguales"[-@rodriguezSociedadesAmericanas18282018a]`<!--  -->`{=html}[^32].
 Como veremos en el próximo capítulo, el a.p.p. contrarresta este
 principio sobre todo en la dimensión visible y reproducible de los
 signos impresos: en su distribución irregular, su secuencia no lineal, y
@@ -762,14 +769,14 @@ y el espacio en blanco de la hoja. Es decir, los mecanismos materiales
 del a.p.p. que desarman el isocronismo operan fundamentalmente en el
 ámbito de la tinta y el papel. En cambio, los dispositivos que Rodríguez
 instala para la subversión de la "monotonía" no se agotan en la
-materialidad verificable de los signos visuales y silentes. En cambio,
-la dimensión anti-monotonía del a.p.p. convoca articulaciones rítmicas y
-tonales --audibles-- que suplementan y complementan el régimen visual de
-los signos impresos.
+materialidad verificable de los signos visuales y silentes. La dimensión
+anti-monotonía del a.p.p. convoca articulaciones rítmicas y tonales
+--audibles-- que suplementan y complementan el régimen visual de los
+signos impresos.
 
 Por eso Rodríguez fue al igual que Bello --aunque en horizontes muy
 distintos-- un defensor de la prosodia: una disciplina que se aproximaba
-a un ocaso temporal[^32], pero que para él fue clave en tanto definidor
+a un ocaso temporal[^33], pero que para él fue clave en tanto definidor
 de la letra impresa como una matriz o partitura que solo completaba su
 "sentido" al pasar por la correcta entonación, no solo de las palabras
 --como ya dicta la norma convencional-- sino de las frases. En
@@ -794,7 +801,7 @@ incorregibles, y tienden a corromper la lengua y a destruir su
 uniformidad" [-@belloObrasCompletasDon1881d 448 - 449]. Rodríguez, por
 su parte, compartió la inquietud de Bello por los "vicios" de la
 pronunciación, contra los que además lanzó burlas inclementes que el
-otro al menos se guardó en público[^33]. Compartió, además, el
+otro al menos se guardó en público[^34]. Compartió, además, el
 presupuesto de que no saber pronunciar según la norma dominada por la
 elite escrituraria era un impedimento para pensar correctamente
 `<!--referencia-->`{=html}. Pero algo distinto ocurría con la
@@ -835,18 +842,18 @@ habían recibido educación. Aquí las expresiones de Rodríguez sobre los
 > [@rodriguezSociedadesAmericanas18282018d pp].
 
 Este fragmento muestra que, como ya indiqué, el movimiento de
-"elevación" de Rodríguez es doble: se eleva, como toda la clase letrada,
-por encima de los "brutos", pero al mismo tiempo se eleva sobre la
-elevada clase letrada, para corregir los programas que establecían lo
-que había que hacer o no con respecto a aquellos. Ya en 1828 había
-definido su perspectiva del problema en estos términos: "\[n\]i el
-Pueblo sabe lo que ha de hacer, ni sus Directores lo que han de hacer
-con él". Porque, efectivamente, como veremos, proponer un programa de
-"educación popular" no fue la excepción sino la regla entre los autores
-más representativos de la vanguardia letrada. Pero todos llegaban
-eventualmente a una calle ciega, en la que la solución para los grupos
-racializados terminaba siendo la exclusión, cuando no el
-exterminio[^34].
+"elevación" de Rodríguez es doble: se eleva, como toda la vanguardia
+ilustrada, por encima de los "brutos", pero al mismo tiempo se eleva
+sobre la elevada vanguardia ilustrada, para corregir los programas que
+establecían lo que había que hacer o no con respecto a aquellos. Ya en
+1828 había definido su perspectiva del problema en estos términos:
+"\[n\]i el Pueblo sabe lo que ha de hacer, ni sus Directores lo que han
+de hacer con él". Porque, efectivamente, como veremos, proponer un
+programa de "educación popular" no fue la excepción sino la regla entre
+los autores más representativos de la vanguardia letrada. Pero todos
+llegaban eventualmente a una calle ciega, en la que la solución para los
+grupos racializados terminaba siendo la exclusión, cuando no el
+exterminio[^35].
 
 Todos, incluído Rodríguez, partían de la misma premisa, y es que los
 dirigentes "habían de hacer" algo con el Pueblo. Lo que persigue la
@@ -856,9 +863,9 @@ que todos los demás programas se encontraban. En este sentido, es
 importante tener presente la aclaración que Rodríguez hace sobre el uso
 de término "brutos", antes de su disquisición sobre los "insolentes" e
 "incómodos". Pues, aunque leída desde hoy, puede tener los tenores de un
-"no soy racista pero", ofrece dos claves conceptuales que serán
-importantes para definir el ángulo desde donde Rodríguez des-fundamentó
-los programas dominantes para educar al "Pueblo":
+"no soy racista pero", ofrece una clave conceptual para definir el
+ángulo desde donde Rodríguez des-fundamentó los programas dominantes
+para educar al "Pueblo":
 
 > Se califican aquí de BRUTOS á los hombres incultos: no se hace la
 > distincion por humillarlos. BRUTO, se toma en el caso presente, por
@@ -867,52 +874,60 @@ los programas dominantes para educar al "Pueblo":
 > toda su razon en satisfacer sus necesidades ó sus caprichos
 > [@rodriguezSociedadesAmericanas18282018d pp].
 
-La primera clave tiene que ver con la acepción que Rodríguez rescata de
-"bruto", que es la sexta en el Diccionario de la Real Academia actual, y
-que no existía en el Diccionario de Autoridades de 1726: "\[d\]icho de
-un producto: En su estado natural" [@asaleBrutoBruta]. Como se sabe,
-"bruto" se empleaba fundamentalmente en dos sentidos: para referirse a
-los animales, especialmente cuadrúpedos[^35], o para calificar
-denigratoriamente a una persona, como "torpe, bestiál, y brutál",
-"vicioso, que vive torpe y desenfrenadamente", "que es en sus costumbres
-y operaciones bárbaro, y procéde bestialmente, como ajéno de razón",
-"\[i\]rracional, incapáz, estólido" [@BrutoBruta]. Claro que referirse a
-todo un grupo social, abrumadoramente mayoritario[^36] con una palabra
-que fundamentalmente denota bestialidad, vicio y estupidez, es una
-elección léxica sumamente agresiva, que además se aumenta de tono con el
-uso de mayúsculas. Pero al subrayar, entre los sentidos de "bruto",
-aquel que se refiere a un estado transitorio y no a una cualidad
-definitoria, Rodríguez completa un doble movimiento: subraya, sin
-eufemismos, el escándalo de un "Pueblo" donde la gran mayoría podía ser
-calificada de esa forma, y la naturaleza plenamente circunstancial,
-contingente y modificable de ese estado, mediante lo que llama el
-"pulimento".
+La acepción que Rodríguez rescata de "bruto" es la sexta en el
+Diccionario de la Real Academia actual y no existía en el Diccionario de
+Autoridades de 1726: "\[d\]icho de un producto: En su estado natural"
+[@asaleBrutoBruta]. Como se sabe, "bruto" se empleaba fundamentalmente
+en dos sentidos: para referirse a los animales, especialmente
+cuadrúpedos[^36], o para calificar denigratoriamente a una persona, como
+"torpe, bestiál, y brutál", "vicioso, que vive torpe y
+desenfrenadamente", "que es en sus costumbres y operaciones bárbaro, y
+procéde bestialmente, como ajéno de razón", "\[i\]rracional, incapáz,
+estólido" [@BrutoBruta]. Claro que referirse a todo un grupo social,
+abrumadoramente mayoritario[^37] con una palabra que fundamentalmente
+denota bestialidad, vicio y estupidez, es una elección léxica sumamente
+agresiva, que además se aumenta de tono con el uso de mayúsculas. Pero
+al subrayar, entre los sentidos de "bruto", aquel que se refiere a un
+estado transitorio y no a una cualidad definitoria, Rodríguez completa
+un doble movimiento: subraya, sin eufemismos, el escándalo de un
+"Pueblo" donde la gran mayoría podía ser calificada de esa forma, y la
+naturaleza plenamente circunstancial, contingente y modificable de ese
+estado, mediante lo que llama el "pulimento".
 
-Como detallaré en el próximo apartado, la idea de "pulir" a los
-"brutos", y el concepto del estado de ignorancia como un hecho
-transitorio y modificable no son exclusivos de Rodríguez. Algunos de los
-números de *El Faro del Bío-Bío* lo prueban. El periódico que se
-imprimía en la Imprenta del Instituto Literario de Concepción el mismo
-año que ésta publicó *Luces* (1834) --patrocinada por el mismo
-intendente-- permite detectar con precisión por qué la "enseñanza" fue
-el interés que Rodríguez pudo encontrar en común con los de quienes
-tenían los medios de imprimir: en un número de marzo la sección de
-"Avisos oficiales" anunciaba que "el curso de partida doble que se
-anunció en el nún. 19 de este periódico, no ha podido abrirse todavía
-por falta de alumnos", y conminaba a los "padres de familia" a que "se
-apresuren á mandarlos á este instituto". Por otra parte, en el número de
-junio, el redactor Louis Boche citaba --mal-- la exclamación con que
-Rodríguez había cerrado *Luces* en 1834. "Enseñad! Enseñad! Enseñad! ha
-dicho nuevamente un publicista, filósofo americano", iniciaba el segundo
-párrafo del editorial, que anunciaba la creación de "\[u\]na escuela
-gratuita para niñas pobres" [-@bocheEscuelaFilantropica1834 1,
-AvisosOficiales1834 1]. Aunque reescrito en la más conservadora segunda
-persona del "vosotros", el editorial se refería el remate de Rodríguez,
-que en 1840 reimprimió como un "cuadro":
-`<!--remate con el término de Grosfoguel-->`{=html}
+La premisa básica, que es la necesidad de "pulir a los brutos", es la
+que lo acerca a la imprenta de Concepción y al intendente que lo regía,
+como queda patente en dos números de *El Faro del Bío-Bío*. Dos
+artículos en el periódico que se imprimía en la Imprenta del Instituto
+Literario de Concepción el mismo año que ésta publicó *Luces* (1834)
+--patrocinada por el mismo intendente-- permite detectar con precisión
+por qué la "enseñanza" fue el interés que Rodríguez pudo encontrar en
+común con quienes tenían los medios de imprimir. En el número de marzo,
+la sección de "Avisos oficiales" anunciaba que "el curso de partida
+doble que se anunció en el nún. 19 de este periódico, no ha podido
+abrirse todavía por falta de alumnos", y conminaba a los "padres de
+familia" a que "se apresuren á mandarlos á este instituto". Y en el
+número de junio, el redactor Louis Boche citaba --mal-- la exclamación
+con que Rodríguez había cerrado *Luces* en 1834. "Enseñad! Enseñad!
+Enseñad! ha dicho nuevamente un publicista, filósofo americano",
+iniciaba el segundo párrafo del editorial, que anunciaba la creación de
+"\[u\]na escuela gratuita para niñas pobres"
+\[@bocheEscuelaFilantropica1834 1; AvisosOficiales1834 1\]. Aunque
+reescrito en la más conservadora segunda persona del "vosotros", el
+editorial se refería el remate de Rodríguez, que en 1840 reimprimió como
+un "cuadro": `<!--remate con el término de Grosfoguel-->`{=html}
 
 ![](file:///home/febres/Pictures/Screenshots/ensenien.png)
 `<!-- ENSEÑEN!... ENSEÑEN!! / repítaseles mil veces / ENSEÑEN!-->`{=html}
+
+La variación gramatical en la cita de *El Faro* es un indicador mínimo
+del abismo mucho mayor que separaba lo que Rodríguez concebía como
+enseñanza, de los --pocos-- que en la vanguardia ilustrada le ofrecieron
+oídos y máquinas de imprimir. Para Rodríguez, los "brutos" eran
+portadores de saberes y habilidades que la vanguardia ilustrada
+ignoraba, y el sistema educativo, tal como estaba establecido, no era
+más que un multiplicador de impropiedades. Impropiedades que solo se
+revertirían al modificar sus modos y sus medios para abrirse a las
+habilidades y los saberes de los que esperaba educar.
 
 ## La potente prosodia del rústico
 
@@ -959,7 +974,7 @@ intangibles del razonamiento para fijar significados. Así, leer "con
 sentido" para Rodríguez no es solamente leer con la capacidad de
 entender, interpretar y juzgar en abstracto el significado de lo leído:
 es también leer de tal modo que el sentido pueda *sentirse* en concreto
-mediante los órganos del cuerpo[^37]. Por otra parte, de acuerdo a la
+mediante los órganos del cuerpo[^38]. Por otra parte, de acuerdo a la
 prosodia rodrigueana, "LEER con SENTIDO" es también leer con *sentido
 del ritmo y de la entonación*, "para instruir, excitando sentimientos"
 [-@rodriguezSociedadesAmericanas18282018d pp]. Esa pauta tonal y rítmica
@@ -982,7 +997,7 @@ distintas secciones del "Galeato", que se organizan en función de
 responder a las distintas "objecciones" que recibió *Sociedades
 americanas en 1828* (1828). Así, el "Galeato" se divide, en seis
 secciones numeradas, cada una respondiendo a una de las objeciones que
-recibió *Sociedades* (1828)[^38]. La primera sección, que ya comenté,
+recibió *Sociedades* (1828)[^39]. La primera sección, que ya comenté,
 responde a quienes dijeron que el texto no era accesible al "Pueblo". Y
 la segunda se ocupa de responder a quienes reclaman que el autor de
 *Sociedades* "'NOS VIENE A ENSEÑAR' / y *¿quién ha dicho esto?* /
@@ -1034,7 +1049,7 @@ metafórica, el "oficio bajo" por excelencia es el de los zapateros,
 porque va en los pies, y sin embargo el zapatero es "superior" al
 letrado en ese oficio bajo. Pero el énfasis no tiene tanto que ver con
 la división del trabajo en el proceso productivo --con la que por otra
-parte, Rodríguez estaba de acuerdo[^39]. Lo que subraya, en principio,
+parte, Rodríguez estaba de acuerdo[^40]. Lo que subraya, en principio,
 es que no hay nada esencial en la diferencia entre letrados y zapateros,
 más que competencias diferentes, cuya "altura" depende de las
 circunstancias.
@@ -1045,7 +1060,7 @@ veremos, fundamentaban la técnica dominante de educación popular. Pues
 como indica Rodríguez en 1842, los "oficios BAJOS" eran fundamentalmente
 el trabajo de las clases racializadas: los "brutos" que entonces
 llamaría "JENTUZA" [-@rodriguezSociedadesAmericanas18282018c
-pp]`<!--  -->`{=html}[^40]. De ahí que la comparación entre los saberes
+pp]`<!--  -->`{=html}[^41]. De ahí que la comparación entre los saberes
 de los letrados y las artes de los zapateros no solo desnaturaliza la
 jerarquía entre las habilidades, sino también la asignación de
 determinados sujetos a determinadas habilidades. Para eso Rodríguez
@@ -1061,7 +1076,7 @@ con zapateros de modo que le hagan caso (sic.)"
 Señalar que a los letrados no le hacen caso los zapateros resuena en la
 experiencia personal de Rodríguez: él mismo llegó a practicar "oficios
 bajos", tanto en su vida en el exilio entre 1797 y 1823, como en sus
-períodos de pulpero y fabricante de velas a partir de 1827[^41]. Es
+períodos de pulpero y fabricante de velas a partir de 1827[^42]. Es
 decir, hay un componente de validación *ad hominem* del tipo: "déjense
 enseñar por mí, que ustedes no saben hablar con zapateros, y yo sí". O
 "déjense enseñar por mí, que ustedes no escuchan a los zapateros y yo
@@ -1098,24 +1113,23 @@ Sin duda, la separación de la práctica y la teoría son una preocupación
 de Rodríguez. Además como detallaré en el próximo capítulo, unir estas
 esferas fue uno de los ejes de su modelo y su praxis pedagógicos en
 América. Pero el señalamiento en este primer momento de *Luces* no
-apunta a discutir la división entre teoría y práctica en general, sino
-específicamente a demostrar cómo esta división afecta los "medios" que
-"se deben emplear en la reforma" --como indica el "plan de la obra" al
-que ya me referí[^42]. Esta precisión es importante, porque en el ámbito
-de los "medios", la separación entre teoría y práctica es menos evidente
-que en otros ámbitos. Por ejemplo, en el caso que presenta Rodríguez la
-diferencia entre alguien que "habla" de estrategia y alguien que "es"
-soldado se define claramente por el tipo de actividad de la que se
-trata: el filólogo se mueve en el plano del discurso, y el soldado se
-mueve en el plano de la acción. En cambio, en lo que respecta a los
-"medios" esa división es menos clara, en tanto teoría y la praxis de los
-medios se mueven ambos en el ámbito de los discursos.
+apunta aún ahí, sino a demostrar cómo esta división afecta los "medios"
+que "se deben emplear en la reforma" --como indica el "plan de la obra"
+al que ya me referí[^43]. Esta precisión es importante, porque en el
+ámbito de los "medios", la separación entre teoría y práctica es menos
+evidente que en otros ámbitos. Por ejemplo, en el caso que presenta
+Rodríguez la diferencia entre alguien que "habla" de estrategia y
+alguien que "es" soldado se define claramente por el tipo de actividad
+de la que se trata: el filólogo se mueve en el plano del discurso, y el
+soldado se mueve en el plano de la acción. En cambio, en lo que respecta
+a los "medios" esa división es menos clara, en tanto teoría y la praxis
+de los medios se mueven ambos en el ámbito de los discursos.
 `<!--¡Transición con lo de cajista de imprenta?-->`{=html}
 
 La comparación visibiliza la producción de discursos como un trabajo y
 una praxis, que no se diferencia en ningún aspecto esencial de los
 "oficios bajos". Y, al mismo tiempo, apunta a poner en evidencia lo que
-estos tienen que aprender, en lo que respecta a
+la vanguardia ilustrada tenía que aprender, en lo que respecta a
 trabajar`<!--*craft*-->`{=html} los discursos, para poderlos "extender
 con ARTE". Como lo expresa el "cuadro" sobre los "medios de
 jeneralizar", lo que quiere "enseñar" Rodríguez no es tanto lo que él
@@ -1161,7 +1175,7 @@ los artefactos e instituciones mediante los que la autoridad difunde
 noticias o información en el público. Pero también son "medios" los
 conocimientos y habilidades necesarias para darle sentido y encarnar ese
 saber en una práctica efectiva. Es decir, donde se ubica el "receptor"
-en la terminología moderna de la teoría de la comunicación[^43],
+en la terminología moderna de la teoría de la comunicación[^44],
 Rodríguez disponía "medios" distintos a los empleados por el emisor para
 difundir el mensaje: los "medios" necesarios para hacer efectiva la
 recepción del mensaje recibido. Nuevamente, trasladarnos a fines del
@@ -1280,7 +1294,7 @@ en *Educación popular*. Aquí Sarmiento se expande profusamente en el
 tópico recurrente en Bello y Saco: la correlación causal entre
 alfabetización y eficacia productiva, y el índice de personas
 capacitadas para la lectura como indicador unívoco de acceso al
-saber[^44]. Sarmiento fue además el primero en poner ese modelo en
+saber[^45]. Sarmiento fue además el primero en poner ese modelo en
 práctica a nivel nacional, como presidente de Argentina entre 1868 y
 1874.
 
@@ -1289,10 +1303,10 @@ próximos a Rodríguez, no solo por la fecha de publicación, sino porque
 el vocabulario empleado parece indicar una polémica velada pero
 implícita entre los dos "maestros". En este horizonte es de especial
 importancia un artículo publicado por Bello en 1826 en el primer número
-de editorial *Repertorio*. Dedicado a la Sociedad Parisiense de
-Enseñanza Elemental, el artículo indica que esta organización "desea que
-se formen en las primeras ciudades de América cuerpos semejantes a ella,
-cuyo instituto sea velar sobre la educación del pueblo, i promover todo
+de *Repertorio*. Dedicado a la Sociedad Parisiense de Enseñanza
+Elemental, el artículo indica que esta organización "desea que se formen
+en las primeras ciudades de América cuerpos semejantes a ella, cuyo
+instituto sea velar sobre la educación del pueblo, i promover todo
 aquello que conduzca a perfeccionarla i propagarla". Estas "sociedades
 americanas" estarían formadas al modelo de la francesa y de otras
 creadas en Europa. Y comenzarían por "traducir o adoptar al pueblo de
@@ -1310,7 +1324,7 @@ Hispanoamérica no se implementó directamente afiliado con la Sociedad
 Parisiense, sus características fueron análogas: estuvo centrado en
 materiales divulgativos adoptados de los existentes en Europa, y se
 legitimó argumentando el éxito que habían tenido no solo en Francia sino
-también Prusia, Estados Unidos e Inglaterra[^45].
+también Prusia, Estados Unidos e Inglaterra[^46].
 
 No me interesa indicar, punto por puno, una contraposición de las
 "sociedades americanas" de Rodríguez a las de la Sociedad Parisiense de
@@ -1373,7 +1387,7 @@ supuestos poderes de la lectura es sintomática de cómo se concibió la
 dialegmática dominante: no contempla en el "aumento de la productividad"
 la economía esclavista, ni el rol que la prohibición de acceso a la
 lectura a las poblaciones racializadas cumplió en el establecimiento de
-este régimen[^46]. Pero Rodríguez no enfatiza aquí --aún-- el carácter
+este régimen[^47]. Pero Rodríguez no enfatiza aquí --aún-- el carácter
 excluyente que impone la lectura alfabética, como único método válido y
 garantizado de acceso a los "conocimientos sociales". Solo indica que el
 método divulgativo confirma y propaga "errores". "Errores" que, para
@@ -1386,7 +1400,7 @@ dicotómica:
 
 Como lo hicieron sus contemporáneos anarquistas y socialistas --y
 después Marx y Engels-- Rodríguez partía de un pronóstico reservado
-sobre la civilización europea[^47]. Particularmente reservado en lo que
+sobre la civilización europea[^48]. Particularmente reservado en lo que
 respecta a la coherencia entre los principios igualitarios de la
 ilustración y el sistema económico profundamente desigual sobre el que
 la ilustración se erigía. Solo que, a diferencia de sus contrapartes al
@@ -1398,7 +1412,7 @@ separaba a Hispanoamérica de Europa una oportunidad para cuestionar todo
 el conocimiento heredado
 `<!--agregar referencia al mundonovismo de Briggs -->`{=html}. En el
 argumento que conduce a su consigna más difundida, "inventamos o
-erramos"[^48] Rodríguez propone que "\[c\]ualquiera de los \[medios de
+erramos"[^49] Rodríguez propone que "\[c\]ualquiera de los \[medios de
 adquirir conocimientos y modos de darlos\] hasta aquí en
 \[hispano\]América, adultera la instrucción". Y, adelantando posibles
 réplicas, declara: "\[n\]o se alegue la sabiduría de la Europa (...)
@@ -1412,14 +1426,14 @@ reproducido la consigna\]
 Claro que la noción de América como lugar de una posible novedad
 radical, superadora de los vicios y la miseria europea, atraviesa una
 larga tradición, que va del mileranismo religioso al utopismo
-ilustrado[^49]. Pero la propuesta de Rodríguez se distingue de la
+ilustrado[^50]. Pero la propuesta de Rodríguez se distingue de la
 tradición milenarista y utópica por estructurarse a partir de un cálculo
 más bien pragmático, atento a las condiciones materiales de posibilidad.
 Varios autores han subrayado en Rodríguez lo que
 @hurtadoariasMaestroSimonRodriguez2015 llaman "un método de comprensión
 de la época que exige de cada idea formulada su sustento en lo
 material-concreto", a través de conceptos vinculados a la crítica de la
-economía política marxista[^50]. En el próximo capítulo trabajaré sobre
+economía política marxista[^51]. En el próximo capítulo trabajaré sobre
 algunos de estos conceptos. Primero me interesa observar los
 señalamientos que Rodríguez hace, en el orden de lo "material-concreto",
 respecto al uso de los medios de reproducción mecánica y su inclinación
@@ -1442,36 +1456,35 @@ pp]`<!--Detalles sobre la biblioteca azul y problema de la historización de la 
 Y, como ya indiqué, en la dialegmática dominante este tipo de materiales
 fue un componente fundamental, sobre el que se organizaba la formación,
 bajo el argumento del éxito que habían tenido en Europa y Estados
-Unidos[^51]. La propuesta en algunos casos era traducir directamente los
+Unidos[^52]. La propuesta en algunos casos era traducir directamente los
 materiales que ya circulaban en Europa, y Sarmiento incluso llegó a
 proponer fomentar el aprendizaje del francés para emplear los materiales
 originales sin necesidad de traducir [-@sarmientoEducacionPopular1849
-pp]`<!--  -->`{=html}[^52].
+pp]`<!--  -->`{=html}[^53]. Lo que convierte a la lectura individual y
+silenciosa en un agente de ignorancia no es simplemente que los libros
+son contenedores de conocimiento generado por Europa --conocimiento del
+que por otra parte Rodríguez nunca se declaró ajeno *per se*.
 
-Lo que convierte a la lectura individual y silenciosa en un agente de
-ignorancia no es simplemente que los libros son contenedores de
-conocimiento generado por Europa --conocimiento del que por otra parte
-Rodríguez nunca se declaró ajeno *per se*. Lo que reclama Rodríguez es
-extender lo que Chartier definió como el "sueño de la Ilustración", que
-era "el derecho a un juicio personal"[^53]. Es decir, solicitaba las
-reformas necesarias para poder aspirar a un régimen en el que "cada
-lector es capaz de criticar las obras, más allá de las instituciones
-oficiales, de las academias, de los eruditos"
-[-@chartierRevolucionesCulturaEscrita2018 pp]. Esta posibilidad estaba
-anulada incluso en el proyecto ilustrado menos conservador
---representado aquí en Saco, Sarmiento, el Bello de 1836 y de la
-Sociedad Parisiense--, que apuntaba a ampliar la esfera de lo público en
-un horizonte divulgativo centrado en la reproducción mecánica. Pues este
-proyecto ignoraba --o elegía omitir-- que por fuera de la esfera letrada
-ya existía una fuerte tradición de apropiación de los discursos del
-"capitalismo impreso" que no estaba restringida a la lecto-escritura. La
-posibilidad de la masa criptógama de crear un "juicio propio" estaba en
-el registro conferencial/verbal, con los múltiples medios --gestuales,
-tonales, visuales y táctiles-- que este involucraba. Esta esfera
-orgánica de apropiación de los discursos quedaba entonces separada
-técnicamente de la esfera que los emitía. Así, los registros del "juicio
-propio" de la masa criptógama quedaban, como los "brutos", "abandonados
-a su suerte en la masa del pueblo"
+Lo que reclama Rodríguez es extender lo que Chartier definió como el
+"sueño de la Ilustración", que era "el derecho a un juicio
+personal"[^54]. Es decir, solicitaba las reformas necesarias para poder
+aspirar a un régimen en el que "cada lector es capaz de criticar las
+obras, más allá de las instituciones oficiales, de las academias, de los
+eruditos" [-@chartierRevolucionesCulturaEscrita2018 pp]. Esta
+posibilidad estaba anulada incluso en el proyecto ilustrado menos
+conservador --representado aquí en Saco, Sarmiento, el Bello de 1836 y
+de la Sociedad Parisiense--, que apuntaba a ampliar la esfera de lo
+público en un horizonte divulgativo centrado en la reproducción
+mecánica. Pues este proyecto ignoraba --o elegía omitir-- que por fuera
+de la esfera letrada ya existía una fuerte tradición de apropiación de
+los discursos del "capitalismo impreso" que no estaba restringida a la
+lecto-escritura. La posibilidad de la masa criptógama de crear un
+"juicio propio" estaba en el registro conferencial/verbal, con los
+múltiples medios --gestuales, tonales, visuales y táctiles-- que este
+involucraba. Esta esfera orgánica de apropiación de los discursos
+quedaba entonces separada técnicamente de la esfera que los emitía. Así,
+los registros del "juicio propio" de la masa criptógama quedaban, como
+los "brutos", "abandonados a su suerte en la masa del pueblo"
 [@rodriguezSociedadesAmericanas18282018c pp], y se generaba una
 disociación entre masa y dirigencia, que Rodríguez describía en estos
 términos:
@@ -1483,7 +1496,7 @@ términos:
 > [@rodriguezSociedadesAmericanas18282018a pp].
 
 Este diagnóstico describe una de las "IMPROPIEDADES EN LA MASA", que
-Rodríguez identifica en su folleto de 1828[^54]. Esta noción indica con
+Rodríguez identifica en su folleto de 1828[^55]. Esta noción indica con
 precisión el punto ciego en el plan dialegmático dominante, que
 pretendía replicar lo que había tenido éxito en "otra partes" sin contar
 con las mismas condiciones de
@@ -1523,7 +1536,7 @@ los negocios públicos en América, se advertirán muchas impropiedades
 eran presentadas como un divorcio entre los discursos autorizados que
 circulaban y se consumían, y las acciones de los ciudadanos. Pero lo
 "impropio" que señala Rodríguez no se opone a una afirmación metafísica
-de lo "propio" como lugar de seguridad ontológica[^55]. Las
+de lo "propio" como lugar de seguridad ontológica[^56]. Las
 "impropiedades" en Rodríguez indican la falta de medios de "apropiación"
 a disposición de las mayorías para que la república llegara "sin
 EXCEPCIÓN / a todos los individuos de un cuerpo"
@@ -1531,7 +1544,7 @@ EXCEPCIÓN / a todos los individuos de un cuerpo"
 de apropiación no se resolvía con un aumento exponencial de los medios
 de reproducción mecánica y un sistema educativo hecho a la medida de
 estos --que de hecho ocurrió a partir del último cuarto del siglo
-XIX[^56].
+XIX[^57].
 
 En el cálculo de Rodríguez, un aumento de escuelas y de imprentas en el
 modo calcado del "capitalismo de imprenta" europeo no haría más que
@@ -1592,7 +1605,7 @@ un lado está el problema de de la correlación entre el trabajo y la
 propiedad. Rodríguez extrapolaba al ámbito de los discursos el
 razonamiento de John Locke, quien sostenía que sólo a través del trabajo
 y el esfuerzo --de las propias manos-- podía tansformarse la naturaleza
-en propiedad[^57]. De ahí surge que el "Pueblo" no puede reconocer como
+en propiedad[^58]. De ahí surge que el "Pueblo" no puede reconocer como
 "propio" un texto ordenador --constitucional-- que hicieron manos
 ajenas. En ese mismo sentido, las manos autorizadas para tratar e
 instituir el lenguaje del orden son manos incapaces para el trabajo que
@@ -1611,13 +1624,12 @@ segundo problema, y es que la clase dominante, al delegar el trabajo
 manual en los grupos racializados iba quedando privada de la capacidad
 de "hacer". De "hacer" zapatos, sillas, casas u ollas, pero también de
 "hacer" valer su palabra, o al menos de impedir la acción destructiva de
-las manos de la masa sobre ella. En 1842 ya
-@rodriguezSociedadesAmericanas18282018c hablaba de un número
-"considerable" en la masa trabajadora, que "han clamado" contra la
-"injusticia de los potentados": un clamor que resultaba inaudible para
-"los que andan, de salón en salón ostentando 'luces' y 'riquezas' y
+las manos de la masa sobre ella. En 1842 ya Rodríguez hablaba de un
+número "considerable" en la masa trabajadora, que "han clamado" contra
+la "injusticia de los potentados": un clamor que resultaba inaudible
+para "los que andan, de salón en salón ostentando 'luces' y 'riquezas' y
 hablando con el más alto desprecio, de los que les llenan la bolsa o los
-mantienen de estudiantes" [@rodriguezSociedadesAmericanas18282018c pp].
+mantienen de estudiantes" [-@rodriguezSociedadesAmericanas18282018c pp].
 Sobre este "clamor" volveré en la última sección. Primero voy a indicar
 las condiciones que, de acuerdo a lo que sugiere Rodríguez, hacían
 inconmensurables dos registros: el de ese clamor, surgido de las manos
@@ -1638,12 +1650,12 @@ dialegmática, como una distinción inconmensurable entre las técnicas
 divulgativas del *statu quo* y las técnicas de apropiación de la
 "JENTUZA". Porque, como permite distinguirlo la historización que hace
 Chartier, el "esclavo, (...) plebeyo, (...) siervo, (...)jornalero,
-\[o\] en una palabra (...) oprimido"[^58] en Europa no estuvo
+\[o\] en una palabra (...) oprimido"[^59] en Europa no estuvo
 sistemáticamente excluido de las técnicas y redes de circulación propias
 del "capitalismo impreso", como sí lo estuvieron en Hispanoamérica. Muy
 por el contrario, los "oprimidos" en Europa tuvieron una participación
 verificablemente activa, cuando no protagónica, en la emergencia de la
-"Galaxia de Gutenberg"[^59].
+"Galaxia de Gutenberg"[^60].
 
 Uno de los índices de participación activa y directa de los "oprimidos"
 en Europa en la formación del "capitalismo de imprenta" es la existencia
@@ -1663,7 +1675,7 @@ En Hispanoamérica el incipiente y dependiente "capitalismo de imprenta"
 de la colonia se blindó contra la influencia de las mayorías. El acceso
 a la lectura entre la masa criptógama, no solo no fue promovido por el
 poder colonial, sino que fue activamente restringido e incluso castigado
-durante siglos[^60]. Esto no quiere decir que la masa en Hispanoamérica
+durante siglos[^61]. Esto no quiere decir que la masa en Hispanoamérica
 no tuviera agencia sobre los procesos de formación de la cultura en la
 región, sino que sus fortalezas para la invención y la apropiación de
 discursos no se desarrollaron en contacto directo con la letra
@@ -1677,7 +1689,9 @@ que no confrontaba ni dialogaba con la técnica letrada y mecánica de
 dominio, sino que la rebasaba abriendo sus propios caminos. Por eso el
 "clamor" de la "masa" contra la "injusticia" que Rodríguez señala
 circulaba en un registro que la técnica mecánica no podía registrar, ni
-mucho menos controlar. Un registro que devenía así criptogámico.
+mucho menos controlar. Un registro que devenía así criptogámico, en
+tanto no eran visibles ni controlables para la vanguardia ilustrada sus
+formas de reproducción.
 
 El modelo dialegmático de Rodríguez apuntaba a reducir este índice de
 inconmensurabilidad. Para eso se proponía, fundamentalmente, integrar al
@@ -1765,14 +1779,15 @@ peligros de este "principio de desorden" lo describió como una "peste
 revolucionaria". Así lo imprimió tres veces, palabra por palabra:
 "\[s\]e rebelan los Pueblos contra el Soberano / como se rebelan los
 humores contra el individuo / Descríbase una peste y se describirá una
-revolucion". Lo reprodujo una vez en
--@rodriguezSociedadesAmericanas18282018d [pp] y dos más en
--@rodriguezSociedadesAmericanas18282018b [pp].
+revolucion" [-@rodriguezSociedadesAmericanas18282018d
+pp; -@rodriguezSociedadesAmericanas18282018b pp].
 
-La contraparte inmediata a la ignorancia masiva de las cosas públicas
-era un acceso excepcional, minoritario y exclusivo a los medios válidos
-para participar en el espacio público. Tal como lo sugiere el "cuadro"
-de los criptógamos, esta distribución del acceso a la lengua pública se
+La disociación entre "humores"/"Pueblos" e "individuo"/"Soberano"
+connota una tensión entre dos fuerzas pujantes y disociadas. Porque la
+contraparte inmediata a la ignorancia masiva de las cosas públicas era
+un acceso excepcional, minoritario y exclusivo a los medios válidos para
+participar en el espacio público. Tal como lo sugiere el "cuadro" de los
+criptógamos, esta distribución del acceso a la lengua pública se
 organizaba en paralelo a la jerarquía racial y la división del trabajo.
 La "JENTUZA" ocupada en "oficios bajos" es la que incuba la peste de las
 revoluciones. Pero quienes sí tenían acceso a los medios de conocimiento
@@ -1786,7 +1801,7 @@ sujetos":
 > que no pueden ocultar---ya en paralizar los esfuerzos que hace el
 > Gobierno para establecer el órden---ya en exaltar la idea de la
 > soberanía para exaltar al pueblo . . . y servirse de él en este estado
-> &c. &c. &c [@rodriguezSociedadesAmericanas18282018d pp]
+> &c. &c. &c [@rodriguezSociedadesAmericanas18282018a pp]
 
 El "exaltar al pueblo" para "servirse de él en ese estado" es lo que
 Susana Rotker definió, a partir del sistema categorial rodrigueano, como
@@ -1794,43 +1809,42 @@ un "*tráfico* de la palabra" [-@rotkerBravoPuebloPoder2005 pp]. Y aquí
 el orden de las publicaciones de Rodríguez permite identificar la
 existencia simultánea de dos devenires de la "enfermedad". Porque el
 texto de 1834, reimpreso --con efectos especiales y aumentado-- en 1840
-seguía advirtiendo sobre la peste de las revoluciones y ofreciendo la
-vacuna para contenerlas. Y en 1842, Rodríguez habla de la "ENFERMEDAD
-DEL SIGLO":
+seguía advirtiendo sobre la peste de las revoluciones. Y en 1842,
+Rodríguez habla de la "ENFERMEDAD DEL SIGLO":
 
 ![](file:///home/febres/Pictures/Screenshots/sed-riqueza.png)
 
 En el próximo capítulo me referiré a lo que Rodríguez llama
 "colonomanía" y "cultomanía". Por ahora me interesa volver a la relación
 que propone Rotker, porque llamar "tráfico" la mediación tergiversadora
-de la "clase intermedia", @rotkerBravoPuebloPoder2005 aproxima el
-fenómeno al régimen trópico de Rodríguez, donde frecuentemente se trata
-la circulación de signos como circulación de mercancías. Por ejemplo,
-Rodríguez escribe: "¿\[c\]ual será la verdad tan feliz, que no tropiece
-con un necio entre sus censores?.... ¿entre esos hombres (buenos ó
-malos) á quienes la autoridad, ó la opinion pública, ha conferido el
-empleo de vistas en la aduana literaria?"
-[-@rodriguezSociedadesAmericanas18282018d pp]. Es decir, propone que el
-censor, con el que la "verdad" tropieza, es como un "\[e\]mpleado de
-aduanas a cuyo cargo está el control de las mercancías" [@asaleVista]. Y
-el poder que selecciona lo que puede formar parte de lo público en el
-ecosistema de medios mecánicos es una "aduana literaria".
+de la "clase intermedia", Rotker aproxima el fenómeno al régimen trópico
+de Rodríguez, donde frecuentemente se trata la circulación de signos
+como circulación de mercancías. Por ejemplo, Rodríguez escribe:
+"¿\[c\]ual será la verdad tan feliz, que no tropiece con un necio entre
+sus censores?.... ¿entre esos hombres (buenos ó malos) á quienes la
+autoridad, ó la opinion pública, ha conferido el empleo de vistas en la
+aduana literaria?" [-@rodriguezSociedadesAmericanas18282018d pp]. Es
+decir, propone que el censor, con el que la "verdad" tropieza, es como
+un "\[e\]mpleado de aduanas a cuyo cargo está el control de las
+mercancías" [@asaleVista]. Y el poder que selecciona lo que puede formar
+parte de lo público en el ecosistema de medios mecánicos es una "aduana
+literaria".
 
 Lo que inquieta a Rodríguez del "tráfico de la palabra" no es la falta
 de libertad para la circulación de discursos --cuya restricción promueve
 en la mayoría de sus impresos--, sino los riesgos que esta libertad
-acarrea en el modelo del capitalismo de imprenta. Lo que revela la muy
-probable necedad de los censores no es tanto la dificultad para hacer
-circular los discursos como el "principio de desorden" en la autoridad o
-la opinión pública, que pone a un "necio" a cargo de las "vistas" en la
-"aduana literaria". Justamente, tener a la necedad a cargo de definir
-qué discursos, cómo y cuándo se divulgan y se validan es la condición de
-posibilidad para darle poder y legitimidad a la estafa. "Con los
-conocimientos, divulgados hasta aquí, se ha conseguido que los
-Usurpadores, los Estafadores, los Monopolistas y los Abarcadores, obren
-legalmente", imprimó en la primera parte de *Luces*. Y remató esta idea
-proponiendo una analogía simétrica entre la falsificación del dinero y
-los discursos impropios:
+acarrea en un modelo mal imitado de "capitalismo de imprenta". Lo que
+revela la muy probable necedad de los censores no es tanto la dificultad
+para hacer circular los discursos como el "principio de desorden" en la
+autoridad o la opinión pública, que pone a un "necio" a cargo de las
+"vistas" en la "aduana literaria". Justamente, tener a la necedad a
+cargo de definir qué discursos, cómo y cuándo se divulgan y se validan
+es la condición de posibilidad para darle poder y legitimidad a la
+estafa. "Con los conocimientos, divulgados hasta aquí, se ha conseguido
+que los Usurpadores, los Estafadores, los Monopolistas y los
+Abarcadores, obren legalmente", imprimó en la primera parte de *Luces*.
+Y remató esta idea proponiendo una analogía simétrica entre la
+falsificación del dinero y los discursos impropios:
 
 > Desde que se han extendido los conocimientos en química y en el arte
 > de grabar, ya no hay arbitrio que baste, para impedir la falsificacion
@@ -1844,15 +1858,16 @@ posibilidades técnicas de reproducción y falsificación del dinero, y el
 mecanismo mediante el que los conocimientos divulgados "hasta ahora"
 favorecen a los "salteadores", "usurpadores", "estafadores",
 "monopolistas" y "abarcadores". Lo que deja clara esta idea es que el
-"principio de desorden" no habilitaba la amenaza de la anarquía social
---la "peste" revolucionaria--, sino también la de una concentración del
-poder comunicacional, que exponenciaba las posibilidades de especular
-con la impropiedad de los discursos para complacer intereses
-particulares y arbitrarios. Repotenciado en la post-guerra de
-Independencia por las posibilidades técnicas de reproducción y la
-libertad para explotarlas, el régimen escriturario de dominación se
-había convertido en una máquina reproductora de impropiedad, que
-usurpaba, asaltaba, monopolizaba, y abarcaba la república.
+"principio de desorden" no solo habilitaba la amenaza de la anarquía
+social --la "peste" revolucionaria--, sino también la de una
+concentración del poder comunicacional, que exponenciaba las
+posibilidades de especular con la impropiedad de los discursos para
+complacer intereses particulares y arbitrarios. Repotenciado en la
+post-guerra de independencia por las posibilidades técnicas de
+reproducción y la libertad para explotarlas, el régimen escriturario de
+dominación se había convertido en una máquina reproductora de
+impropiedad, que usurpaba, asaltaba, monopolizaba, y abarcaba la
+república.
 
 Había entonces, por un lado, una esfera orgánica extra-letrada, que
 multiplicaba con velocidad epidémica un clamor revolucionario, y una
@@ -1886,7 +1901,7 @@ carteles, gacetas u otros productos impresos destinados a la lectura
 silenciosa, es clarificador. Por un lado, deja ver que en su análisis el
 régimen de reproducción mecánica de los signos no se agotaba en el
 objeto impreso, sino que pasaba por la entonación acústica que permitía
-*sentirlo* a quienes no podían leerlo. Por otra parte, deja ver que para
+"sentirlo" a quienes no podían leerlo. Por otra parte, deja ver que para
 el "tráfico de la palabra" la posibilidad de imprimir era un aspecto
 técnico determinante. Pero no más determinante que la posibilidad de
 explorar las potencias de esa tecnología libre de los designios del
@@ -1894,24 +1909,24 @@ gobierno. Y aún más: que con ella pudiera influir sobre el gobierno
 atendiendo a los intereses de quienes reproducían los discursos, y
 contra los del interés público. En la post-guerra, la opinión era un
 mercado de libre competencia, donde Rodríguez ubicaba con cierta
-precisión el "principio de desorden"
+precisión el "principio de desorden".
 
 Para hablar de la libre competencia, Rodríguez tomaba prestado del
-francés la palabra "concurrencia" (*concurrence*), que "se ha discutido,
-propuesto, impuesto o rechazado desde al menos finales del siglo XVIII,
-en Francia como en Gran Bretaña, en Italia como en Alemania, en Japón
-como en China y en otros lugares" [@stanzianiReglesEchangeOu2013 pp].
-Rodríguez empleó "concurrencia" en sus impresos de 1828, 1830 y 1849
-para criticar lo que calificaba como un "sistema anti-económico", en el
-que "el productor es víctima del consumidor, y ámbos lo vienen á ser del
-capitalista especulador" [-@rodriguezObrasCompletas2016 pp]. Pero en
-esos contextos se refería específicamente al ámbito de la economía
-política, el comercio y la producción de mercancías. En cambio, en 1834,
-lo empleó para referrise específicamente a los procesos que organizaban
-la oferta y demanda de discursos, específicamente en el ámbito
-educativo. En la lista que elaboró para criticar los "medios de adquirir
-los conocimientos sociales", el número 5
-`<!--cuántos debajo de criticar los "catecismitos"-->`{=html} era:
+francés la palabra "concurrencia" \[*concurrence*\], que "se ha
+discutido, propuesto, impuesto o rechazado desde al menos finales del
+siglo XVIII, en Francia como en Gran Bretaña, en Italia como en
+Alemania, en Japón como en China y en otros lugares"
+[@stanzianiReglesEchangeOu2013 pp]. Rodríguez empleó "concurrencia" en
+sus impresos de 1828, 1830 y 1849 para criticar lo que calificaba como
+un "sistema anti-económico", en el que "el productor es víctima del
+consumidor, y ámbos lo vienen á ser del capitalista especulador"
+[-@rodriguezObrasCompletas2016 pp]. Pero en esos contextos se refería
+específicamente al ámbito de la economía política, el comercio y la
+producción de mercancías. En cambio, en 1834, lo empleó para referrise a
+los procesos que organizaban la oferta y demanda de discursos,
+específicamente en el ámbito educativo. En la lista que elaboró para
+criticar los "medios de adquirir los conocimientos sociales", el número
+5 `<!--cuántos debajo de criticar los "catecismitos"-->`{=html} era:
 
 > Declarar libre el comercio de enseñanza \[...\] paraque haya
 > concurrencia, y se abarroten los Colejios, como se abarrotan las
@@ -1945,7 +1960,7 @@ pobres`<!--referencia-->`{=html}. Para Rodríguez, el éxito del modelo de
 educación masiva o popular lancasteriano solo era comparable al éxito de
 estas sopas, que "con algunas mermitas de Papin \[precursor de la olla
 de presión\] y algunos huesos, engordan millares de pobres, sin comer
-carne" [-@rodriguezSociedadesAmericanas18282018b pp]. Pero, como lo
+carne" [-@rodriguezSociedadesAmericanas18282018d pp]. Pero, como lo
 especifica en 1842, el mote de "escuelas de vapor" no se refería solo a
 la poca consistencia de sus resultados, sino a la velocidad con que se
 producían. `<!-- indicar reimpresiones -->`{=html}Se trata de
@@ -1982,8 +1997,9 @@ inseparable de una aspiración más amplia, que responde más directamente
 al "asunto del día": el "orden público" y las "muchas castas"
 americanas. Me refiero al plan condensado en la premisa "colonizar el
 país \[el continente americano\] con sus propios habitantes" en 1830,
-1840 y 1842. Esta se presenta en la "Nota" anexa a *El Libertador* en
-1830 y se resume en la entrevista del "Juramento":
+1840 y 1842. Esta se presenta por primera vez en la "Nota" anexa a *El
+Libertador* en 1830, se articula como "proyecto de ley" en 1842 y se
+resume en la entrevista del "Juramento":
 
 > Mi gran proyecto por entonces consistía en poner en práctica un plan
 > bastante meditado que estriba en colonizar la América con sus propios
@@ -2084,19 +2100,20 @@ una versión des-metonimizada del sintagma: el avance de la ciencia,
 aplicado a la tecnología industrial, producía máquinas cuyo
 funcionamiento capitalizaba el conocimiento y la experimentación
 acumulados durante siglos. El *boom* francés de ciencia aplicada a la
-industria del que hacía parte la *Guide du mecanicien* era en este
-sentido apenas un eco del *boom* matriz que lo ordenaba: el desarrollo
-acelerado de las fuerzas productivas. Bajo este *boom* se desarrollaba
-el segundo fenómeno que connota la "perfecta inteligencia de las
-máquinas": la "ciencia utópica" que, de acuerdo a John Tresch, tuvo su
-auge más significativo en la primera mitad del siglo XIX. Para Tresch,
-los nuevos descubrimientos y dispositivos habilitados por el desarrollo
-económico y científico insuflaron el pensamiento técnico y racional de
-"emoción y experiencia estética". Así surgen los "románticos mecánicos",
-para quienes "la ciencia y la tecnología no aparecían como enemigos del
-humano sino como componentes integrales --tanto actores como
-herramientas-- en la creación de una 'segunda naturaleza'".
-[@treschRomanticMachineUtopian2012 1, 4]
+industria del que hacía parte la *Guide du mecanicien* --en cuya reseña
+Bello usa el sintagma "perfecta intelijencia de las máquinas"-- era en
+este sentido apenas un eco del *boom* matriz que lo ordenaba: el
+desarrollo acelerado de las fuerzas productivas. Bajo este *boom* se
+desarrollaba el segundo fenómeno que connota la "perfecta inteligencia
+de las máquinas": la "ciencia utópica" que, de acuerdo a John Tresch,
+tuvo su auge más significativo en la primera mitad del siglo XIX. Para
+Tresch, los nuevos descubrimientos y dispositivos habilitados por el
+desarrollo económico y científico insuflaron el pensamiento técnico y
+racional de "emoción y experiencia estética". Así surgen los "románticos
+mecánicos", para quienes "la ciencia y la tecnología no aparecían como
+enemigos del humano sino como componentes integrales --tanto actores
+como herramientas-- en la creación de una 'segunda naturaleza'"
+[@treschRomanticMachineUtopian2012 1, 4].
 
 La metonimia que desplaza la inteligencia de los individuos y las
 sociedades que producen determinadas máquinas a las máquinas mismas
@@ -2138,7 +2155,7 @@ vez describía como una máquina. Es lo que hace *Crítica de las
 providencias del gobierno*: una serie de artículos que circularon en
 Lima en 1843, editadas por la Imprenta del Comercio en Lima, y que de
 acuerdo a @mondragonHaciaEdicionCritica2016 cierra el proyecto editorial
-*Sociedades americanas* \[-mondragonHaciaEdicionCritica2016 pp\].
+*Sociedades americanas* [-@mondragonHaciaEdicionCritica2016 pp].
 Continuando la discusión de 1834 en Concepción --y de 1840 en
 Valparaíso-- sobre el desconocimiento general de los asuntos públicos,
 describe así sus efectos perjudiciales y su posible remedio:
@@ -2161,8 +2178,8 @@ con los "humores", y al "Soberano" con el "individuo" que atacan esos
 cuerpo social trabaja entonces por capas. En una capa distingue a los
 "Pueblos" en su conjunto como "humores" enfrentados al "Soberano". En
 otra, distingue las "simpatías": aquello que permite la articulación de
-los "humores" (de los "pueblos") para rebelarse contra el "individuo"
-(el "Soberano"). Porque "\[n\]o hay simpatía verdadera sino entre
+los "humores" --de los "pueblos"-- para rebelarse contra el "individuo"
+--el "Soberano". Porque "\[n\]o hay simpatía verdadera sino entre
 iguales --- simpatizan, en apariencia, los súbditos con los superiores,
 porque el que obedece proteje las ideas del que manda; pero, la
 ANTIPATÍA es el sentimiento natural de la INFERIORIDAD . . . que ¡nunca
@@ -2173,21 +2190,22 @@ es agradable!" [@rodriguezObrasCompletas2016 144]
 dejar entrar a la masa en un proyecto republicano. Es el proyecto de la
 "escuela de pardos", pero suprimiendo no solo la separación entre
 escuela de pardos y escuela de blancos, sino la separación entre pardos
-y blancos en la sociedad en su conjunto. El proyecto, aparentemente
-utópico, apunta en realidad a demostrar lo irrealizable del proyecto de
-la vanguardia ilustrada. No solo porque compartía con los críticos
-europeos del capitalismo su escepticismo ante el mito del progreso en
-general, sino porque Rodríguez veía cómo se levantaba en Hispanoamérica
-un "republicanismo bastardo" [-@rodriguezObrasCompletas2016
+y blancos en la sociedad en su conjunto, y en cierto sentido, también la
+separación entre escuela y sociedad. El proyecto, aparentemente utópico,
+apunta en realidad a demostrar lo irrealizable del proyecto de la
+vanguardia ilustrada. No solo porque compartía con los críticos europeos
+del capitalismo su escepticismo ante el mito del progreso en general,
+sino porque Rodríguez veía cómo se levantaba en Hispanoamérica un
+"republicanismo bastardo" [-@rodriguezObrasCompletas2016
 pp; -@rodriguezSociedadesAmericanas18282018c pp], que copiaba el
 "capitalismo impreso" europeo sin reproducir sus orígenes. Por eso
 propone responder al problema de las "castas" en términos de un cálculo
 al menos tan preciso como el de un médico. Un cálculo que no es
-pragmático en el corto plazo, porque no tiene una aplicabilidad clara,
-pero sí postula una praxis teórica que apunta manifiestamente a desarmar
-las ilusiones ideológicas --del "vulgo"-- sobre el progreso ilimitado,
-que la vanguardia ilustrada fundaba sobre la "impropiedad". Así lo
-reclamaba en 1842:
+pragmático en el corto plazo, porque no tiene una aplicabilidad clara e
+inmediata, pero sí postula una praxis teórica que apunta manifiestamente
+a desarmar las ilusiones ideológicas --las "verdades" del "vulgo"--
+sobre el progreso ilimitado, que la vanguardia ilustrada fundaba sobre
+la "impropiedad". Así lo reclamaba en 1842:
 
 ![](file:///home/febres/Pictures/Screenshots/alucinemos.png)
 
@@ -2207,12 +2225,12 @@ programáticas para crear escuelas no es mucho menos forzado que buscar
 propuestas concretas y programáticas en *El capital* para fundar bancos.
 
 En *Luces* está uno de los ejemplos más elocuentes para identificar cómo
-lo que escribe Rodríguez sobre "educación" no tiene ninguna
-aplicabilidad --y ni siquiera una muy clara posibilidad de intelección--
-inmediata, pero sí propone un paradigma fundado en la praxis para pensar
-lo social, y a partir de lo social, pensar todo lo demás. Cuando señala
-que "\[e\]n vano estudian los jóvenes matemáticas, lójica, metafisica..
-sino saben resolver cuestiones tan sencillas"
+lo que escribe Rodríguez sobre "educación" puede no tener aplicabilidad
+--y ni siquiera una muy clara posibilidad de intelección-- inmediata, y
+al mismo tiempo proponer un paradigma fundado en la praxis para pensar
+lo social, para a partir de lo social pensar todo lo demás. Cuando
+señala que "\[e\]n vano estudian los jóvenes matemáticas, lójica,
+metafisica.. sino saben resolver cuestiones tan sencillas"
 [@rodriguezSociedadesAmericanas18282018d pp], las "cuestiones tan
 sencillas" son:
 
@@ -2221,7 +2239,7 @@ sencillas" son:
 ![](file:///home/febres/Pictures/Screenshots/facultades.png)
 
 2)  Un segundo y cuarto "cuadros", en los que propone 144 variaciones
-    del primero, para convertir el axioma en "problema"[^61]
+    del primero, para convertir el axioma en "problema"[^62]
 
 > \[figura: dígase / cosas / en lugar de / facultades /digase / querer /
 > pretender / mandar / hacer / adquirir / poseer / ó apropiarse / en
@@ -2278,15 +2296,15 @@ hasta las ganas de preguntar por qué piden pan"
 Un modelo educativo que quita las ganas de preguntar por qué se pide pan
 es un modelo que separa el conocimiento de su fundamento material. Por
 eso Rodríguez rechazaba de plano anteponer la lectura a la formación del
-criterio, y llegaba a proponer que "el que no entienda lo que está
-escrito, no debe leerlo" [-@rodriguezSociedadesAmericanas18282018b pp].
-Su premisa era que "como los principios están en las cosas, con Cosas se
-enseñará a Pensar" [@rodriguezSociedadesAmericanas18282018c pp]. Y se
-aplicaba de un modo concreto, según los registros disponibles. Por
-ejemplo, así describe el método educativo de Rodríguez uno de los pocos
-testimonios que lo registra en un aula de clases, en algún punto de su
-exilio europeo entre 1801 y 1823. Se trata de una escuela en Londres,
-donde "adquirió reputación por su práctico modo de enseñar":
+criterio, y llegó a proponer que "el que no entienda lo que está
+escrito, no debe leerlo". Su premisa era que "como los principios están
+en las cosas, con Cosas se enseñará a Pensar"
+[-@rodriguezSociedadesAmericanas18282018c pp, pp]. Y se aplicaba de un
+modo concreto, según los registros disponibles. Por ejemplo, así
+describe el método educativo de Rodríguez uno de los pocos testimonios
+que lo registra en un aula de clases, en algún punto de su exilio
+europeo entre 1801 y 1823. Se trata de una escuela en Londres, donde
+"adquirió reputación por su práctico modo de enseñar":
 
 > En cuanto al cálculo , con ayuda de pequeños cuadros de madera
 > pintados de diversos colores, hacía que sus discípulos ejecutaran
@@ -2300,7 +2318,7 @@ El modo de enseñar de Rodríguez parte de la premisa de que la razón nace
 de la interacción con el mundo concreto, antes de con las abstracciones.
 Y en cierto sentido, se "adelanta" a principios de la educación que
 comenzaron a popularizarse a partir de las contribuciones del
-constructivismo en el siglo XX[^62]. Pero tanto o más que a la eficacia
+constructivismo en el siglo XX[^63]. Pero tanto o más que a la eficacia
 pedagógica general, su modo de concebir la enseñanza, en el contexto de
 la post-guerra de Independencia, obedecía al "cuadro" de 1834 --y
 reimpreso en 1849--, atento a su contexto específico, donde indica que
@@ -2323,9 +2341,9 @@ premisa que imprimió en 1843, y es que "\[t\]odo es obra de las
 circunstancias" [@rodriguezObrasCompletas2016 522]. Este princpipio, que
 proclama a las circunstancias como el fundamento de los acontecimientos
 y las abstracciones, encuentra tanto eco en la obra de Rodríguez como
-rechazo entre sus contemporáneos. Un "cuadro" de 1842 condensa la
-premisa de "conocer las cosas para reglar nuestra conducta con ellas",
-en un principio pedagógico:
+rechazo entre sus contemporáneos. Por eso un "cuadro" de 1842 condensa
+la premisa de "conocer las cosas para reglar nuestra conducta con
+ellas", en un principio pedagógico:
 
 ![](file:///home/febres/Pictures/Screenshots/tratar-con.png)
 
@@ -2336,23 +2354,24 @@ de la presencia"[-@derridaGramatologia1978 pp]. Particularmente al
 legado de los dos autores paradigmáticos que el argelino identifica en
 los extremos de la línea diacrónica sobre la que se establece la
 autoridad de la voz extra-textual y omnipresente: Sócrates y
-Rousseau[^63]. Por un lado, su abogacía por la enseñanza verbal y
-conferencial, junto a un epíteto usado por Simón ;;Bolívar, han
-habilitado su caracterización como epígono caraqueño de Sócrates. Sobre
-este punto, ya referí en la sección anterior las circunstancias que
-obligan a reconsiderar su reivindicación de la formación verbal y
-conferencial como un planteamiento técnico antes que metafísico. Por
-otra parte, la educación centrada en el tratamiento con las cosas antes
-que los libros ha sido el argumento para emparentar a Rodríguez con las
-premisas bajo las cuales el narrador ficcional del *Emile* forma a su
-discípulo --y por delegación, con la metafísica de Rousseau. Pero como
-bien precisa Ronald ;;Briggs, la analogía entre Rodríguez y Rousseau
-responde más bien a la necesidad de establecer un entramado romántico,
-con el modelo del *Emilio*, de la relación pedagógica entre Bolívar y su
-mentor. Y, como señala Vanpeé, si bien Rousseau profesaba retóricamente
-una pedagogía empirista y escéptica ante los libros, su modelo no dejaba
-de estar organizado alrededor de la lectura como "metáfora maestra"
-\[-;;vanpeeRousseauEmileOu1990 164\].
+Rousseau[^64]. Por un lado, su abogacía por la enseñanza verbal y
+conferencial, junto a un epíteto usado por Simón
+@bolivarObrasCompletas1951 [pp], han habilitado su caracterización como
+remedo caraqueño de Sócrates. Sobre este punto, ya referí en la sección
+anterior las circunstancias que obligan a reconsiderar la reivindicación
+que hace Rodríguez de la formación verbal y conferencial como un
+planteamiento técnico antes que metafísico. Por otra parte, la educación
+centrada en el tratamiento con las cosas antes que los libros ha sido el
+argumento para emparentar a Rodríguez con las premisas bajo las cuales
+el narrador ficcional del *Emile* forma a su discípulo --y por
+delegación, con la metafísica de Rousseau. Pero como bien precisa Ronald
+Briggs, la analogía entre Rodríguez y Rousseau responde más bien a la
+necesidad de establecer un entramado romántico, con el modelo del
+*Emilio*, de la relación pedagógica entre Bolívar y su mentor
+[-@briggsTropesEnlightenmentAge2010 pp]. Y, como señala Vanpeé, si bien
+Rousseau profesaba retóricamente una pedagogía empirista y escéptica
+ante los libros, su modelo no dejaba de estar organizado alrededor de la
+lectura como "metáfora maestra" [-@vanpeeRousseauEmileOu1990 164].
 
 Jesús Andrés @andres-lasherasSimonRodriguezMaestro2005 ofrece un ángulo
 que permite encontrar un parentesco más cercano al horizonte al que
@@ -2368,9 +2387,9 @@ inspirador o padre del utilitarismo
 anglosajón`<!-- referencia -->`{=html}, es una pista clave para alumbrar
 un costado del pensamiento de Rodríguez más presente en su obra que
 estudiado. Es el costado de lo que llamaré un "materialismo pragmático":
-una forma de comprender la política y la cultura a partir de las
-condiciones materiales que les dan forma. Toma del utilitarismo la
-aspiración a actuar sobre ellas mediante la praxis, pero introduce un
+una forma de comprender y transformar la política y la cultura a partir
+de las condiciones materiales que les dan forma. Toma del utilitarismo
+la aspiración a actuar sobre ellas mediante la praxis, pero introduce un
 desvío, al emplear esa misma premisa para desobedecer los mandatos y
 límites impuestos por las ilusiones de trascendencia que sostienen el
 orden establecido.
@@ -2457,21 +2476,21 @@ las facultades ajenas"; o cuando invita a los americanos a que "recojan
 los materiales de sus Pensamientos / en suelo, producciones, industria,
 i riqueza--- / en situaciones, comercio interior i exterior--- / en
 razas, condiciones, costumbres i conocimientos"
-[@rodriguezSociedadesAmericanas18282018c pp]. Pero más aún significativa
-es su toma de posición más contundente en favor del materialismo, justo
-antes de morir. Una toma de posición que no aparece en su obra escrita
+[@rodriguezSociedadesAmericanas18282018c pp]. Pero su toma de posición
+más contundente en favor del materialismo no aparece en su obra escrita
 sino en la serie del "Rodríguez narrador" que caractericé en el primer
 capítulo.
 
 La escena recoge precisamente aquello que Walter Benjamin caracteriza
 como uno de los paradigmas de la "experiencia" que se pierde con la
 reproducción mecánica, y que el "narrador" reconstruye en el trabajo
-artesanal
-[@benjaminSelectedWritings1996]`<!--glosar con más precisión y citas textuales-->`{=html}.
-Me refiero al testimonio de Camilo Gómez: el joven que acompañó a
-Rodríguez en 1854 después que naufragara en un caserío cercano a
-Amotape, en el norte de Perú. Cuenta Gómez que al llegar el cura a
-confesar al moribundo --y nonagenario-- Rodríguez:
+artesanal: lo último que hun hombre dice antes de morir
+[@benjaminSelectedWritings1996
+pp]`<!--glosar con más precisión y citas textuales-->`{=html}. Me
+refiero al testimonio de Camilo Gómez: el joven que acompañó a Rodríguez
+en 1854 después que naufragara en un caserío cercano a Amotape, en el
+norte de Perú. Cuenta Gómez que al llegar el cura a confesar al
+moribundo --y nonagenario-- Rodríguez:
 
 > Don Simón tan luego lo vio entrar se incorporó en la cama, se sentó,
 > hizo que el cura se acomodara en la única silla que había y comenzó a
@@ -2493,63 +2512,78 @@ región-- postulaba la imposibilidad de conocer todas las causas de los
 acontecimientos para sostener su postura antimaterialista. Y aunque no
 elaboró una posición teológica en estricto sentido, su filosofía apelaba
 a un principio trascendental, incognoscible e inmodificable que
-resultaba plena y convenientemente compatible con el catolicismo.
-
-Para Bello, el avance de la ciencia y del libre mercado que lo
-financiaba debían contrarrestarse con una metafísica de la obediencia
+resultaba plena y convenientemente compatible con el catolicismo. Para
+Bello, el avance de la ciencia y del libre mercado que lo financiaba
+debían contrarrestarse con una metafísica de la obediencia
 supraterrenal, para garantizar el orden social
-[-@fielbaumEspirituSinBarro2022 pp, pp, pp]. La posición de Bello no era
-lejana a la posición de Rousseau, que era por otra parte, según Tresch,
-representativa de cómo veían el asunto los "románticos mecánicos"
-[@treschRomanticMachineUtopian2012 pp]. Rousseau osciló entre aferrarse
-a una razón trascendendente que sobredeterminaría los fenómenos
-materiales, y coquetear tímida y temerosamente con la tradición
-materialista que el giro pragmático de Marx dejó atrás. Como recuerda
-Jared Holley, en sus *Confesiones* Rousseau mencionó un plan de publicar
-una obra llamada *El materialismo del hombre sabio*, aunque después tuvo
-la necesidad de aclarar que el público no debía ser "confundido por el
-título", porque no era un "verdadero tratado sobre materialismo". Por
-otra parte, en el *Emilio* postula la necesidad de aceptar la "falta de
-interés de los dioses en asuntos humanos". Pero al mismo tiempo se
-resisitó enérgicamente a concebir la realidad privada de determinaciones
-trascendentes y divininas. Para él era sobre todo inconcebible un mundo
-simplemente ordenado por la necesidad
-[@holleyRousseauRefinedEpicureanism2018
-pp; @holleyRousseauReceptionEpicurean2019 pp]. El horizonte utópico de
-la "perfecta inteligencia de las máquinas" no era compatible con la idea
-de un mundo ordenado por necesidades, contingencias y circunstancias sin
-un orden superior, "inteligente" que garantizara su contención.
+[-@fielbaumEspirituSinBarro2022 pp, pp, pp].
 
-Claro que la versión que se reproduce de la "disertación materialista"
-en el "Juramento" obedece a un plan que dando por garantía lo divino
-heredado --"Juro por el dios de mis padres"-- afirma emprender una
-voluntad sin descanso hasta conseguir un objetivo. En ese sentido, traza
-un plan que si no es del todo divino, es al menos teleológico, y recurre
-a tropos que afirman la inmortalidad e invariabilidad de la voluntad
-humana. Pero, como mostré en el primer capítulo, la reproducción
-dominante del "documento formal con el que Bolívar inicia su compromiso
-con la independencia americana" [@rotkerBravoPuebloPoder2005 88] suprime
-las contingencias de su --supuesta-- primera enunciación: "\[y\] luégo,
-volviéndose hacia mí, húmedo el ojo, palpitante el pecho, enrojecido el
-rostro, con una animación casi febril, me dijo"
-[@uribeangelLibertadorSuAyo1884 74]. Es decir, lo que suprime, en
-principio, el recorte --multiplicado en la reproducción mecánica-- de la
-escena ritual que Rodríguez define como una "disertación materialista"
-es precisamente sus huellas materiales.
+La posición de Bello no era lejana a la posición de Rousseau, que era
+por otra parte, según Tresch, representativa de cómo vieron el asunto
+los "románticos mecánicos" [@treschRomanticMachineUtopian2012 pp].
+Rousseau osciló entre aferrarse a una razón trascendendente que
+sobredeterminaría los fenómenos materiales, y coquetear tímida y
+temerosamente con la tradición materialista que el giro pragmático de
+Marx dejó atrás. Como recuerda Jared Holley, en sus *Confesiones*
+Rousseau mencionó un plan de publicar una obra llamada *El materialismo
+del hombre sabio*, aunque después se vio en la necesidad de aclarar que
+el público no debía ser "confundido por el título", porque no era un
+"verdadero tratado sobre materialismo". Por otra parte, en el *Emilio*
+postula la necesidad de aceptar la "falta de interés de los dioses en
+asuntos humanos". Pero al mismo tiempo se resisitó enérgicamente a
+concebir la realidad privada de determinaciones trascendentes y
+divininas. Para él era sobre todo inconcebible un mundo simplemente
+ordenado por la necesidad [@holleyRousseauRefinedEpicureanism2018
+pp; @holleyRousseauReceptionEpicurean2019 pp].
+
+El horizonte utópico de la "perfecta inteligencia de las máquinas" no
+era compatible con la idea de un mundo ordenado por necesidades,
+contingencias y circunstancias sin un orden superior, "inteligente", que
+garantizara su contención. Por eso, Rodríguez definió el apego
+"espiritual" del pensamiento liberal dominante como "máxima favorita del
+egoísmo". Lo simplificó como una contradicción aceptada, entre una
+metafísica de la obediencia debida a un único dios, y la orientación
+antisocial del individualismo, en una consigna que escribió en 1834,
+reescribió como "cuadro" de 1840 y repitió --para rebatirla, claro-- a
+partir de 1830 en cada una de sus obras impresas:
+
+![](file:///home/febres/Pictures/Screenshots/dios-para-todos.png)
+
+```{=html}
+<!-- 
+Este es, precisamente, el primer ejemplo que pone Rodríguez para definir la "doctrina social(...)que exhalan los mercados y las tiendas", y cuyo contagio prevendría la "vacuna" de la "instrucción social".  -->
+```
+# Cálculo de pulpería
+
+El evento que Rodríguez refiere con una "disertación materialista" --el
+"Juramento del Monte Sacro"-- obedece a un plan que dando por garantía
+lo divino heredado: "Juro por el dios de mis padres", etcétera. Es
+decir, afirma emprender una voluntad sin descanso hasta conseguir un
+objetivo. En ese sentido, traza un plan que si no es del todo divino, es
+al menos teleológico, e implica la inmortalidad e invariabilidad de la
+voluntad humana. Pero, como mostré en el primer capítulo, la
+reproducción dominante del "documento formal con el que Bolívar inicia
+su compromiso con la independencia americana"
+[@rotkerBravoPuebloPoder2005 88] suprime las contingencias de su
+--supuesta-- primera enunciación: "\[y\] luégo, volviéndose hacia mí,
+húmedo el ojo, palpitante el pecho, enrojecido el rostro, con una
+animación casi febril, me dijo" [@uribeangelLibertadorSuAyo1884 74]. Es
+decir, lo que suprime, en principio, el recorte --multiplicado en la
+reproducción mecánica-- de la escena ritual que Rodríguez define como
+una "disertación materialista" es precisamente sus huellas materiales.
 
 Como indica Susana Rotker, este recorte de lo material -- que se
 verifica tanto en la reproducción impresa como en la amplificación
-iconográfica-- tiene que ver con lo sensorial: "la casi carnal
-solemnidad del momento" que construye el narrador, aludiendo al
-enrojecimiento de la cara, la humedad del ojo, el palpitar del pecho y
-la mirada dirigida al maestro a los que ya me referí
-[-@rotkerBravoPuebloPoder2005 90]. Este aspecto es fundamental, pues
-esto es parte de lo que, en el marco categorial de Rodríguez, puede
-llamarse el "SENTIDO" del juramento: todo aquello que, precisamente, no
-puede procesar una máquina. Pero además, parte del "SENTIDO" que se
-suprime es la motivación del texto matriz, donde el relato está mediado
-por una serie de almuerzos ofrecidos a un hombre anciano que en ese
-momento de su vida pasa necesidad.
+iconográfica-- tiene que ver con el "sentir": "la casi carnal solemnidad
+del momento" que construye el narrador, aludiendo al enrojecimiento de
+la cara, la humedad del ojo, el palpitar del pecho y la mirada dirigida
+al maestro a los que ya me referí [-@rotkerBravoPuebloPoder2005 90].
+Este aspecto es fundamental, pues esto es parte de lo que, en el marco
+categorial de Rodríguez, puede llamarse el "SENTIDO" del juramento: todo
+aquello que, precisamente, no puede procesar una máquina. Pero además,
+parte del "SENTIDO" que se suprime es la motivación del texto matriz,
+donde el relato está mediado por una serie de almuerzos ofrecidos a un
+hombre que en ese momento de su vida pasa necesidad.
 
 Como reconoce Manuel Uribe Ángel en la crónica que lleva el "Juramento"
 a la imprenta por primera vez, su relación con Rodríguez se fundó en un
@@ -2561,10 +2595,10 @@ otro", cuenta el médico. Por otra parte, la contraprestación por lo que
 había en la mesa tampoco se oculta: "\[s\]ería largo referir el número
 de anécdotas, picares cas unas, filosóficas otras, é instructivas todas,
 que me fueron referidas por Don Simón Rodríguez"
-[-@uribeangelLibertadorSuAyo1884 72, 74]. Además, parte, como conté en
-el primer capítulo, Rodríguez le hace el relato del "Juramento" como una
-explícita compensación por la información sobre su vida para una novela
-que "no se la voy a dar".
+[-@uribeangelLibertadorSuAyo1884 72, 74]. Además, como indiqué en el
+primer capítulo, Rodríguez le hace el relato del "Juramento" a Uribe
+Ángel como una explícita compensación por la información sobre su vida
+para una novela que "no se la voy a dar".
 
 Es decir, parte de lo que borra el texto reproducido del "Juramento"
 tiene una motivación "materialista" en el sentido de "preocupado por los
@@ -2576,11 +2610,11 @@ para producirlos, incluso en su sentido más mundano: el que más
 enérgicamente rechazó el anti-materialismo de Rousseau, de Bello y de
 los repetidores de esta retórica romántica que "por meterse a
 espirituales" negaban las constantes negociaciones del "espŕitu" con el
-"comercio de los hombres"[^64]. Sublimar las capacidades de las
+"comercio de los hombres"[^65]. Sublimar las capacidades de las
 máquinas, insufladas del "espíritu" humano de progreso, requería y
 requiere ocultar, ignorar o reducir a daños colaterales las relaciones
-pragmáticas y materiales de opresión que las hacen posibles, en el
-ámbito más mundano de lo social.
+pragmáticas y materiales que las hacen posibles, en el ámbito más
+mundano de lo social.
 
 Nuevamente, la clave para precisar el tipo de vínculo que Rodríguez tuvo
 con este ámbito se encuentra en la serie del "Rodríguez narrador". Se
@@ -2594,12 +2628,12 @@ decir, Marcoy tomó prestada del español la palabra que se usaba en casi
 toda Hispanoamérica para referirse a los establecimientos que
 "\[a\]demás de un puesto de venta, constituía\[n\] un lugar de consumo y
 recreación donde se podía comer, beber, cantar o practicar distintos
-juegos" \[josemuzleraPulperia2022 pp\]. El traductor anónimo, que
-publicó la versión en 1879 evitó los vocablos "pulpero" y "pulpería" de
-la versión francesa cada vez que aparecen, y los sustituy+o por "tienda
-de comestibles", "dueño del establecimiento", "amo de la tienda" y
+juegos" [@josemuzleraPulperia2022 pp]. El traductor anónimo, que publicó
+la versión en 1879 evitó los vocablos "pulpero" y "pulpería" de la
+versión francesa cada vez que aparecen, y los sustituyó por "tienda de
+comestibles", "dueño del establecimiento", "amo de la tienda" y
 "lonjinista" [@marcoyViajePorRegion1879 391; @marcoyVoyageDansRegion1877
-pp]. Y esta versión fue la que después reprodujeron todas las otras
+pp]. Así dio lugar a la versión que después reprodujeron todas las otras
 publicaciones en español.
 
 La borradura del Rodríguez "pulpero" es significativa, en tanto como
@@ -2616,12 +2650,13 @@ tipo de práctica que se diferenciaba de las del capitalismo avanzado por
 su escala pero no por su composición esencial
 [-@kinsbrunerPettyCapitalismSpanish1987 pp, pp, pp]. Estamos aquí frente
 a un Rodríguez comerciante, atento al dinero y los recursos como motor
-indispensable para las relaciones y los proyectos: un aspecto que un
-aspecto que recorre sus cartas, su obra escrita y las evidencias
-históricas que existen de su relación con gobiernos, y que desdibuja su
-excentricidad[^65]. Y al mismo tiempo, estamos frente a la persistencia
-de sus traductores y editores hispanohablantes, en recordarlo alejado de
-esas preocupaciones.
+indispensable para las relaciones y los proyectos: un aspecto que
+recorre sus cartas, su obra escrita y las evidencias históricas que
+existen de su relación con gobiernos, y que desdibuja su
+excentricidad[^66]. Y al mismo tiempo, estamos frente a la persistencia
+de las máquinas de imprimir, en recordarlo alejado de esas
+preocupaciones, tal como se recuerda el"Juramento" separado de las
+contingencias materiales --y materialistas-- en que se produjo.
 
 En una de sus etimologías, "pulpería" connota el dinamismo del
 movimiento de los brazos del "pulpero", que lidian con una amplia
@@ -2629,15 +2664,15 @@ diversidad de productos, clientes y proveedores a lo largo de casi todos
 los estratos de la sociedad: entre la legalidad y la ilegalidad; entre
 los "brutos" y los letrados; entre "espirituales" y "materialistas"
 `<!--referencia-->`{=html}. Este registro de lo múltiple, de lo
-"tentacular"\[nota: referencia a Haraway\], e impredecible, que recorría
-el "capitalismo en miniatura" de la postguerra es lo que la vanguardia
+"tentacular"[^67], imperceptible e impredecible, que recorría el
+"capitalismo en miniatura" de la postguerra es lo que la vanguardia
 ilustrada acordaba dejar escapar, y/o evitar, en un consenso tal que
 alcanza un traductor anónimo en 1879. Y tiene sentido que lo hayan
 evitado, pues mientras el antimaterialismo dominante invocaba un dios
 antisocial como garantía de contención de esa multiplicidad, la "vacuna"
 de Rodríguez postulaba una "arriesgada infección continua", para
 consolidar, legitimar y exponenciar en la lengua pública los
-"parentescos raros" [@harawaySeguirConProblema2019 pp] que ya tenían
+"parentescos raros" [@harawaySeguirConProblema2019 pp, pp] que ya tenían
 lugar efectivo en el "comercio de los hombres".
 
 ```{=html}
@@ -2646,45 +2681,46 @@ lugar efectivo en el "comercio de los hombres".
 ## La sociedad contra la masa
 
 La consolidación de los "parentescos raros" está ya implícita en el
-"diagnóstico" epidemiológico que hace del clamor revolucionario entre
-los criptógamos: "\[s\]e rebelan los pueblos contra el Soberano / como
-se rebelan los humores contra el individuo". Como los "humores" en la
-teoría clásica, el pueblo excluido de la cosa pública podía rebelarse
-contra el soberano, precisamente porque formaba parte consustancial de
-él. Lo que implica la figura no es menor, en tanto la separación
-categórica entre masa y elite era un elemento constitutivo al tipo de
-república que imaginó la vanguardia ilustrada[^66]. Tanto la exclusión
-sistemática de las poblaciones racializadas como su incorporación a
-"escuelas de vapor" obedecían a postergar esta separación, sobre la que
-se erigía un régimen de explotación del trabajo. Un régimen heredado
-hasta cierto punto de la colonia, pero que en la era republicana se
-expandió exponencialmente. El cálculo de Rodríguez no apuntaba entonces
-a juzgar lo moralmente incorrecto de ese plan, sino a probar el error de
-cálculo estructural sobre el que se fundaba.
+"diagnóstico" epidemiológico que Rodríguez hace del clamor
+revolucionario entre los criptógamos: "\[s\]e rebelan los pueblos contra
+el Soberano / como se rebelan los humores contra el individuo". Como los
+"humores" en la teoría clásica, el pueblo excluido de la cosa pública
+podía rebelarse contra el soberano, precisamente porque formaba parte
+consustancial de él. Lo que implica la figura no es menor, en tanto la
+separación categórica entre masa y elite era un elemento constitutivo al
+tipo de república que imaginó la vanguardia ilustrada[^68]. Tanto la
+exclusión sistemática de las poblaciones racializadas como su
+incorporación a "escuelas de vapor" obedecían a postergar esta
+separación, sobre la que se erigía un régimen de explotación del
+trabajo. Un régimen heredado hasta cierto punto de la colonia, pero que
+en la era republicana se expandió exponencialmente. El cálculo de
+Rodríguez no apuntaba entonces a juzgar lo moralmente incorrecto de ese
+plan, sino a probar el error de cálculo estructural sobre el que se
+fundaba.
 
-@lasartevalcarcelLadoOscuroSimon2005 interpreta los llamados del orden
-en Rodríguez como un índice de "temor a la anarquía social" \[28\]. Y,
-como he mostrado, esa prevención sobre los peligros anárquicos que
-advenían con el experimento repubicano es, en efecto, un punto
-fundamental que Rodríguez tiene en común con la vanguardia ilustrada.
-Pero también es importante distinguir los argumentos en los que
-Rodríguez basa su temor, y los términos en que presenta ese peligro.
-Para la vanguardia ilustrada, la anarquía es un problema racial: falta
-de cultura o de sangre europea[^67]. Para Rodríguez, el problema es
-dialegmático: los modos y los medios dominados por la masa para la
-apropiación de los discursos no son conmensurables a los empleados por
-la elite para emitirlos. Ambas perspectivas admitían un antagonismo
-entre la masa realmente existente y la sociedad ilustrada que se trataba
-de erigir sobre ella. La diferencia fundamental es que, para la
-vanguardia, la solución era hacer a la sociedad más similar a la europea
-para disciplinar a la masa que no lo era. En cambio, para Rodríguez el
-camino era proporcionar el margen de disciplinamiento con el margen de
-invención popular, adaptando los medios para que la masa pudiera
-dialogar con la sociedad. Una perspectiva extremaba --o en el mejor de
-los casos continuaba-- el antagonismo entre masa y sociedad heredado de
-la colonia; la otra apuntaba a inocular los medios con una "infección
-continua", cambiándolo así por el antagonismo propio de un "gobierno
-verdaderamente republicano".
+Lasarte Valcárcel interpreta los llamados del orden en Rodríguez como un
+índice de "temor a la anarquía social"
+[-@lasartevalcarcelLadoOscuroSimon2005 28]. Y, como he mostrado, esa
+prevención sobre los peligros anárquicos que advenían con el experimento
+repubicano es, en efecto, un punto fundamental que Rodríguez tiene en
+común con la vanguardia ilustrada. Pero también es importante distinguir
+los argumentos en los que Rodríguez basa su temor, y los términos en que
+presenta ese peligro. Para la vanguardia ilustrada, la anarquía es un
+problema racial: falta de cultura o de sangre europea[^69]. Para
+Rodríguez, el problema es dialegmático: los modos y los medios dominados
+por la masa para la apropiación de los discursos no son conmensurables a
+los empleados por la elite para emitirlos. Ambas perspectivas admitían
+un antagonismo entre la masa realmente existente y la sociedad ilustrada
+que se trataba de erigir sobre ella. La diferencia fundamental es que,
+para la vanguardia, la solución era hacer a la sociedad más similar a la
+europea para disciplinar a la masa que no lo era. En cambio, para
+Rodríguez el camino era proporcionar el margen de disciplinamiento con
+el margen de invención popular, adaptando los medios para que la masa
+pudiera dialogar con la sociedad. Una perspectiva extremaba --o en el
+mejor de los casos continuaba-- el antagonismo entre masa y sociedad
+heredado de la colonia; la otra apuntaba a inocular los medios con una
+"infección continua", cambiándolo así por el antagonismo propio de un
+"gobierno verdaderamente republicano".
 
 El ejemplo más claro de cómo la vanguardia ilustrada apuntaba a mantener
 la distancia entre Estado y sociedad está en uno de los argumentos de
@@ -2702,7 +2738,7 @@ La analogía implícita es: en Hispanoamérica los letrados son a los
 proponía "educarlas" como Inglaterra educaba a los nativos en la India.
 La inexistente distancia geográfica en la analogía hispanoamericana se
 compensaba, en algunos casos, con lo que Daniel Nemsser llama
-"infraestructuras de la raza"[^68]. Pero tanto o más incidente que la
+"infraestructuras de la raza"[^70]. Pero tanto o más incidente que la
 distribución espacial urbana --que además, fue débil e inestable en las
 regiones coloniales menos metropolitanas, incluso dentro de la Nueva
 España--, la metafísica, apoyada en la dialegmática, situaba a los
@@ -2710,7 +2746,7 @@ España--, la metafísica, apoyada en la dialegmática, situaba a los
 había barreras de piedra, concreto y espacio, la vanguardia
 --representante de la sociedad-- se mantenía separada de la masa
 afirmando nociones esencialistas sobre la "naturaleza" de estas
-poblaciones[^69]. Y, sobre todo, afirmándolas mediante técnicas
+poblaciones[^71]. Y, sobre todo, afirmándolas mediante técnicas
 discursivas a las que estas poblaciones de todas formas no tenían acceso
 para discutirlas.
 
@@ -2719,7 +2755,7 @@ corresponde sobre todo al último tercio de siglo XIX
 [-@peterwadeRaceNatureCulture2015 pp]. Pero ya en la primera mitad
 circulaban discursos influyentes que, sostenidos en la autoridad de la
 razón, definían como ineptos para la civilización grupos sociales
-enteros, que por otra parte eran ampliamente mayoritarios[^70]. Lo que
+enteros, que por otra parte eran ampliamente mayoritarios[^72]. Lo que
 deja ver el escrutinio que hace Rodríguez de la dialegmática ilustrada
 es que las nociones racistas sobre la masa también tenían anclaje
 material en los modos de producción y consumo de los discursos. Por eso
@@ -2797,48 +2833,51 @@ la población para la explotación masiva del trabajo-- sino que
 organizaban como "Pueblo" una masa trabajadora mayoritariamente
 ignorante "de las cosas públicas". Es decir, un "Pueblo" en el que la
 masa oprimida no puede disputar con el opresor, en términos
-conmensurables, el poder político y capacidad de representar. El "mal
-cálculo" es el que no prevé el "monstruo social" porque el "adelanto de
-los conocimientos" se produce disociado de las Luces Sociales. Es decir,
-lo que sostiene el "adelanto" es precisamente el trabajo maquinal y
-embrutecedor de la sociedad a la que se priva de medios para apropiarse
-de las "luces". E incluso de las "luces" a las que sí tenían acceso los
-"oprimidos" en Europa, aunque fuera como comunidades de lectura
-diferenciadas. Por eso Rodríguez señalaba la existencia de un "monstruo
-social"
+conmensurables, el poder político y capacidad de representar. La
+desigualdad parece, además, objetivamente favorable al adelanto relativo
+del conocimiento. Por eso en la última parte de *Luces* señala que los
+"*pareceres*, convertidos en opiniones, han consagrado los mayores
+absurdos, por siglos enteros", y asegura que "\[n\]o es de admirar (...)
+que los progresos de las Luces Sociales sean tan lentos: todos los
+conocimientos adelantan... muchos llegan á su perfeccion.... ellas
+parecen estacionarias". Para desactivar los pareceres en torno a esta
+desigualdad, ya había empleado en 1830 una metáfora teratológica antes
+de recurrir a la analogía epidémica. "Grandes proyectos de ¡ILUSTRACION!
+al lado de una absoluta IGNORANCIA, contrastarán siempre y nunca se
+asociarán--- juntos, hacen un monstruo social"
+[@rodriguezBolivarContraBolivar2019 pp].
 
-Una peste literal, inevitablemente, tiene un margen de impredictibilidad
-e imperceptibilidad; la peste metafórica de la rebelión popular *podría*
-evitarse, pero la vanguardia ilustrada elige no hacerlo. Para persuadir
-de la necesidad de la "vacuna" viene a "mostrar" con el "monstruo
-social" la insostenibilidad del sistema: no hay sujeción de la masa al
-dominio de los gobernantes, sino "un pueblo inerte / por ignorancia" que
-simula obedecer [@rodriguezObrasCompletas2016
-pp]`<!--  -->`{=html}[^71]. En *El Libertador* en 1830 asegura que los
-"\[g\]randes proyectos de ¡ILUSTRACION! al lado de una absoluta
-IGNORANCIA, contrastarán siempre y nunca se asociarán--- juntos, hacen
-un monstruo social". Era un "monstruo social" que pinta Rodríguez lo es
-en el sentido más elemental de la monstruosidad: se trata de una
-situación en el que un cuerpo pertenece, al mismo tiempo, a dos
+Era un "monstruo social" en el sentido más elemental de la
+monstruosidad: un cuerpo que pertenece, al mismo tiempo, a dos
 "naturalezas" diferentes, contradictorias y quiméricas: es la vez
 ilustrado y bruto, bárbaro y civilizado, capaz de alucinar con la
 inteligencia perfecta de las máquinas, y de embrutecer a su sociedad con
-trabajos mecanizados.
+trabajos mecanizados. Lo que sostiene el "adelanto" es precisamente el
+trabajo maquinal y embrutecedor de la sociedad a la que se priva de
+medios para apropiarse de las "luces" --incluso o sobre todo de las
+"luces" a las que sí tenían acceso los "oprimidos" en Europa, aunque
+fuera como comunidades de lectura diferenciadas. Para persuadir de la
+necesidad de la "vacuna" viene a "mostrar" con el "monstruo social" la
+insostenibilidad del sistema: no hay sujeción de la masa al dominio de
+los gobernantes, sino "un pueblo inerte / por ignorancia" que simula
+obedecer [@rodriguezObrasCompletas2016 pp]`<!--  -->`{=html}[^73].
 
-Pero la alarma no se presentaba como un simple reclamo condecendiente
-sobre la desigualdad en abstracto, sino de un cálculo, que revelaba una
-carencia fundamental: el "capitalismo de imprenta" europeo había sido el
-resultado de una operación en la que se medían las fuerzas
-conmensurables de disciplina estatal e invención popular; en
-Hispanoamérica se estaba tratando de emular ese modelo, en una operación
-donde la disciplina estatal y la invención popular no podían medirse, ni
-producir un resultado conjunto. En 1834, advertía que la masa iba a
-encontrar sus propias respuestas, si los decisores no emprendían un plan
-de verdadera instrucción "jeneral" --es decir, sin los filtros de la
-escritura alfabética, y abierto a las preguntas "filosóficas" por las
-motivaciones mundanas. En 1842 ya detalla cómo el clamor creciente sobre
-la injusticia y la desigualdad circula en un registro que no perciben
-quienes tienen acceso a los recursos económicos y el conocimiento.
+El de Rodríguez no era un reclamo condescendiente sobre la desigualdad
+en abstracto, sino un cálculo, que revelaba una carencia fundamental: el
+"capitalismo de imprenta" europeo había sido el resultado de una
+operación en la que se medían las fuerzas conmensurables de disciplina
+estatal e invención popular; en Hispanoamérica se estaba tratando de
+emular ese modelo, en una operación donde la disciplina estatal y la
+invención popular no podían medirse, ni producir un resultado conjunto.
+La de 1834 era una advertencia para asegurar que la masa iba a encontrar
+sus propias respuestas, si los decisores no emprendían un plan de
+verdadera instrucción "jeneral". Es decir, una instrucción sin los
+filtros de la escritura alfabética, y abierto a las preguntas
+"filosóficas" por las motivaciones mundanas. Era, en términos de los
+"románticos mecánicos", una instrucción incompatible con la "perfecta
+intelijencia de las máquinas", pues la condición de posibilidad de este
+horizonte era, precisamente, la misma que hacía posible el "monstruo
+social".
 
 # Conclusión
 
@@ -2852,39 +2891,56 @@ como anexo a *El libertador*, Rodríguez escribió:
 > campos y serían tan brutos como sus esclavos
 > [-@rodriguezObrasCompletas2016 pp]
 
-Si los doctores hubiesen tenido que dedicarse a trabajos prácticos, no
-estarían en las ciudades sino en los campos, y serían "tan brutos como
-sus esclavos". La ucronía tiene un punto fundamental en común con la
+En el fragmento se condensa el movimiento fundamental de Rodríguez al
+escrutar la dialegmática ilustrada y su fe ciega en el progreso: exhibe
+el cuerpo social reversiblemente desigual para *mostrar* lo que está
+roto entre la masa y la sociedad[^74]: el saber de los "\[d\]octores
+(...) en su vida inútil" avanza sobre el embrutececimiento y reducción a
+máquina de sus "esclavos" [^75]. Ante esta separación, la analogía de la
+"peste" sirve para llevar al lenguaje del cálculo y la ciencia lo que
+ofrecía su "vacuna", que era des-fundamentar las verdades que no estaban
+sostenidas por cuerpos, y construir una república sobre las verdades
+surgidas de la inoculación criptogámica. Apelando a la razón, Rodríguez
+introdujo en la conversación impresa del temprano siglo XIX la
+diferencia colonial, sin invocar un "esencialismo estratégico" ni
+principios fijos de identidad. Su intervención "muestra" cómo cierto
+tipo de prácticas conducen a cierto tipo de resultados, y vuelven no
+solo inviables sino ridículas las "alucinaciones" hispanoamericanas de
+progreso ilimitado fundadas en la impropiedad.
+
+Esta es la alucinación que se disuelve al considerar que, si los
+doctores hubiesen tenido que dedicarse a trabajos prácticos, no estarían
+en las ciudades sino en los campos, y serían "tan brutos como sus
+esclavos". La ucronía tiene un punto fundamental en común con la
 analogía donde los humores/pueblo se rebelan contra el
-soberano/individuo: ambas figuras muestran a letrados y "brutos"
+soberano/individuo: ambas figuras muestran a ilustrados y "brutos"
 habitando el mismo cuerpo social, pero no en una cohesión idealizada,
 sino subrayando el abismo dialegmático que los separa. La dinámica
 produce una grotesca desproporción en las "sociedades americanas", que
 José Martí describió, décadas más tarde, con las siguientes palabras en
 su crónica "Un viaje a Venezuela" (*circa* 1881):: "\[e\]sos pueblos
 tienen una cabeza de gigante y un corazón de héroe en un cuerpo de
-hormiga loca".
+hormiga loca". Como Martí en su crónica --pero sin nombrarla--,
+Rodríguez usó a Venezuela en *Luces* como un espejo para mostrarle a
+América Latina la desproporción grotesca entre el lujo vanguardista de
+la elite ilustrada y la depauperación y embrutecimiento social.
 
-Como Martí en su crónica, pero sin decir su nombre, Rodríguez usó a
-Venezuela en *Luces* como un espejo para mostrarle a América Latina la
-desproporción grotesca entre el lujo vanguardista de la elite ilustrada
-y la depauperación y embrutecimiento social. Su perspectiva se formó en
-la experiencia directa con los modos en que un movimiento de masas podía
-gestarse, no solo al margen de máquinas de imprimir, sino precisamente
-favorecida por la difusión imprevisible e impredecible de los discursos
-que se movían independientemente de ellas. La circulación descontenida
-de los discursos y las ideas de un "ignorante", entre vecinos, familia,
-y comunidades por "simpatía", radica el riesgo que suponía fundar una
-república sobre medios de exclusión. O al menos así lo presentaba
-Rodríguez a los letrados para vender su proyecto. En este sentido, el
-argumento con que promueve la inclusión no es una premisa abstracta
-sobre la igualdad de los seres humanos, sino un cálculo sobre el
-potencial contagioso de las ideas que circulan descoyuntadas del "saber
-decir", la razón y el "Soberano". La amenaza que esto representaba para
-la clase a la que le habla Rodríguez aparecía expuesta así en 1842:
-"\[l\]os medios violentos de conseguir la Libertad, poniendo el
-ejercicio de la autoridad, en manos de la multitud, es reemplazar un
-despotismo llevadero con otro insoportable"
+Su perspectiva se formó en la experiencia directa con los modos en que
+un movimiento de masas podía gestarse, no solo al margen de máquinas de
+imprimir, sino precisamente favorecida por la difusión tentacular de los
+discursos que se movían independientemente de ellas. La circulación
+descontenida de los discursos y las ideas de un "ignorante", entre
+vecinos, familia, y comunidades por "simpatía", radica el riesgo que
+suponía fundar una república sobre medios de exclusión. O al menos así
+lo presentaba Rodríguez a los letrados para vender su proyecto. En este
+sentido, el argumento con que promueve la inclusión no es una premisa
+abstracta sobre la igualdad de los seres humanos, sino un cálculo sobre
+el potencial contagioso de las ideas que circulan descoyuntadas del
+"saber decir", la razón y el "Soberano". La amenaza que esto
+representaba para la clase a la que le habla Rodríguez aparecía expuesta
+así en 1842: "\[l\]os medios violentos de conseguir la Libertad,
+poniendo el ejercicio de la autoridad, en manos de la multitud, es
+reemplazar un despotismo llevadero con otro insoportable"
 [-@rodriguezSociedadesAmericanas18282018c pp].
 
 "¡¿Qué mal calcula el que condena a un hombre a la ignorancia, por el
@@ -2896,35 +2952,18 @@ la hipótesis de un letrado embrutecido implicaba su inversión: si los
 "Doctores", estarían en las ciudades y no en los campos, y serían tan
 ilustrados, sabios civilizados y pensadores como sus amos. Plantearlo en
 términos de "mal cálculo" viene a subrayar la inconveniencia de lo que
-la vanguardia ilustrada veía como un negocio redondo. Era precisamente
-para conservar esa redondez que la vanguardia ilustrada construía un
-muro dialegmático que la separara de la sociedad. Por eso Rodríguez
-trata de convencer de que el modelo es inviable e inconveniente, y para
-eso apela al miedo del "monstruo social", precisamente subrayando su
-invisibilidad:
+la vanguardia ilustrada veía como un negocio redondo. Pues era
+precisamente para conservar esa redondez que la vanguardia ilustrada
+construía un muro dialegmático y metafísico que la separara de la
+sociedad. Por eso Rodríguez trata de convencer de que el modelo es
+inviable e inconveniente, y para eso apela al miedo del "monstruo
+social", precisamente subrayando su invisibilidad:
 
 > Viájese por los países donde hai esclavos, i se verá que los amos han
 > aprendido mucho de lo que han enseñado; pero que sus esclavos conocen
 > mejor que ellos el arte de engañar: los Esclavos nunca creen a sus
 > Amos, i han hecho a sus amos crédulos: afectando sumisión los dominan
 > [-@rodriguezSociedadesAmericanas18282018b pp].
-
-El a.p.p. exhibe el cuerpo anómalo para *mostrar* lo que está roto entre
-el la masa y la sociedad[^72]: el saber de los "\[d\]octores (...) en su
-vida inútil" avanza sobre el embrutececimiento y reducción a máquina de
-sus "esclavos" \[como detallo en el próximo capítulo, el uso del lexema
-"esclavo" en Rodríguez tiende al sentido metafórico que, como demostró
-Sussan Buck Morrs, fue de uso común en el liberalismo\]. Y la analogía
-de la "peste" sirve para llevar al lenguaje del cálculo y la ciencia lo
-que ofrece su "vacuna", que era des-fundamentar las verdades que no
-estaban sostenidas por cuerpos, y construir una república sobre las
-verdades surgidas de la inoculación. Apelando a la razón, Rodríguez
-introdujo en la conversación impresa del temprano siglo XIX la
-diferencia colonial, sin invocar un "esencialismo estratégico" ni
-principios fijos de identidad. Su intervención "muestra" cómo cierto
-tipo de prácticas conducen a cierto tipo de resultados, y vuelven no
-solo inviables sino ridículas las "alucinaciones" hispanoamericanas de
-progreso ilimitado fundadas en la impropiedad.
 
 Pero como indiqué en el primer capítulo, la obra de Rodríguez es a la
 vez un pronóstico y una propuesta de desvío condicional sobre como
@@ -2935,23 +2974,25 @@ políticamente turbulento en Hispanoamérica. O como lo llama
 @rotkerBravoPuebloPoder2005: "un fresco en blanco y negro de las
 convulsiones políticas, los caudillismos, los intereses en pugna, las
 marginaciones y la ebullición social" (102), aludiendo no solo a lo que
-Rodríguez manifiestamente prevé como peste revolucionaria, sino también
-a lo que refractan las formas abigarradas y la voluntad escandalosa de
-sus objetos impresos.
+Rodríguez manifiestamente prevé como "peste", sino también a lo que
+refractan las formas abigarradas y la voluntad escandalosa de sus
+objetos impresos.
 
 El "podrían", por su parte, se proyecta hacia un futuro en el que
 Rodríguez espera ser comprendido`<!-- cita -->`{=html}. En ese sentido,
-las marchas masivas de migrantes venezolanos, o de hispanoamericanos de
-otros países pero organizadas --según la paranoia del gobierno de
-Trump-- por el gobierno venezolano, encarnan en el presente una
-post-vida de la colonización criptógama. Los contemporáneos con los que
-esperaba sentarse no son, sin embargo, la masa ilustrada por el verbo y
-la conferencia que imaginó. Aunque cabe preguntarse si esa forma
-anárquica pero consistente de un contraataque poblacional, que inocula
-al continente con los cuerpos y las voces y los bailes de la criptogamia
---que se hacen cada vez más audibles--, no fue también una parte
-perversa de su cálculo en la disputa del futuro contra la inteligencia
-de las máquinas.
+en las marchas masivas de migrantes venezolanos, o de hispanoamericanos
+de otros países pero organizadas --según la paranoia del gobierno de
+Trump-- por el gobierno venezolano, pueden leerse en el presente como
+una post-vida de la colonización criptógama. Por otro lado, la posición
+de América como el continente más violento del mundo sugiere que los
+contemporáneos con los que Rodríguez esperaba sentarse en el futuro no
+son la masa ilustrada por el verbo y la conferencia que imaginó. Aunque
+cabe preguntarse si las formas anárquicas y catastróficas pero
+consistentes de un continente cada vez más inoculado por los cuerpos y
+las voces y los bailes de la criptogamia --que son por otra parte cada
+vez más audibles y visibles--, no son también una parte perversa de su
+cálculo, en la disputa del futuro contra la inteligencia de las
+máquinas.
 
 [^1]: nota: referencias
 
@@ -3045,129 +3086,138 @@ de las máquinas.
 
 [^28]: nota: referencia a Straka
 
-[^29]:  referencia a artículo "La técnica de Robinson" y a capítulo "La
+[^29]: el término proviene de un "cuadro" de Rodríguez que comento más
+    adelante
+
+[^30]:  referencia a artículo "La técnica de Robinson" y a capítulo "La
     ciudad escrituraria"
 
-[^30]:  sobre el a.p.p., ver capítulos 1 y 3
+[^31]:  sobre el a.p.p., ver capítulos 1 y 3
 
-[^31]:  como muestro en el próximo capítulo, en un sentido más amplio,
+[^32]:  como muestro en el próximo capítulo, en un sentido más amplio,
     el "isocronismo" define también la metafísica del "tiempo homogéneo
     y vacío" que impuso y dispuso la tecnología impresa, y que el a.p.p.
     ataca y subvierte
 
-[^32]: nota y referencia: de cómo la prosodia desapareció por esa época
+[^33]: nota y referencia: de cómo la prosodia desapareció por esa época
     y revivió recientemente como una disciplina descriptiva, posible
     gracias a los avances en tecnologías informáticas de análisis de la
     voz
 
-[^33]:  ejemplos
+[^34]:  ejemplos
 
-[^34]:  ejemplos en Sarmiento, Bello y Saco
+[^35]:  ejemplos en Sarmiento, Bello y Saco
 
-[^35]:  ver, por ejemplo, el artículo de Andrés Bello "Sobre la
+[^36]:  ver, por ejemplo, el artículo de Andrés Bello "Sobre la
     inteligencia de los brutos"
 
-[^36]:  cálculos para Perú, Chile, Venezuela y Bolivia en el momento
+[^37]:  cálculos para Perú, Chile, Venezuela y Bolivia en el momento
 
-[^37]:  desarrollaré esto en mayor profundidad en el próximo capítulo
+[^38]:  desarrollaré esto en mayor profundidad en el próximo capítulo
 
-[^38]:  las enumero
+[^39]:  las enumero
 
-[^39]:  En *Extracto sucinto de mi obra sobre la educación republicana*
+[^40]:  En *Extracto sucinto de mi obra sobre la educación republicana*
     (1849) argumenta "\[q\]ue la división de trabajos en la producción
     es necesaria: porque la super abundancia de una misma cosa en todo
     en un país, abarata el producto, desaprecia el trabajo y empobrece
     al productor" [@rodriguezObrasCompletas2016 pp].
 
-[^40]: nota: en la próxima sección detallo cómo la crítica de medios y
+[^41]: nota: en la próxima sección detallo cómo la crítica de medios y
     la crítica pedagógica de Rodríguez empalman con los fundamentos
     técnicos en que se sostenía y se sostiene a largo plazo esta
     división racial del trabajo
 
-[^41]:  mención a algunas de las fuentes sobre esto; mención a su
+[^42]:  mención a algunas de las fuentes sobre esto; mención a su
     trabajo como cajista de imprenta en particular, sobre el que volveré
     después
 
-[^42]:  de los métodos Rodríguez se ocupará, en parte, más adelante en
+[^43]:  de los métodos Rodríguez se ocupará, en parte, más adelante en
     *Luces* (1834). También le dedicará unas páginas en la versión de
     1840, y especialmente se extenderá en ellos en el manuscrito
     *Consejos de amigo* y en *Extracto de mi obra sobre la educación
     republicana*
 
-[^43]: referencia; también mencionar la teoría postmoderna: Jenkins y el
+[^44]: referencia; también mencionar la teoría postmoderna: Jenkins y el
     transmedia
 
-[^44]:  ejemplos en E.P.
+[^45]:  ejemplos en E.P.
 
-[^45]:  señalar dónde se explicita esta voluntad imitativa, en Bello,
+[^46]:  señalar dónde se explicita esta voluntad imitativa, en Bello,
     Saco y Sarmiento
 
-[^46]:  ejemplos
+[^47]:  ejemplos
 
-[^47]:  críticos que han señalado ya esta relación
+[^48]:  críticos que han señalado ya esta relación
 
-[^48]:  referencia a la edición de Monte Ávila, murales, nombre del más
+[^49]:  referencia a la edición de Monte Ávila, murales, nombre del más
     grande gupo de investigación dedicado a él, y títulos de libros que
     la remedan
 
-[^49]:  referencia a Briggs, Baylin, Isaac J. Pardo y Juan Pro
+[^50]:  referencia a Briggs, Baylin, Isaac J. Pardo y Juan Pro
 
-[^50]:  @covaDonSimonRodriguez1947, @rojasolayaSimonRodriguezClase2017,
+[^51]:  @covaDonSimonRodriguez1947, @rojasolayaSimonRodriguezClase2017,
     @fernandezSimonRodriguezUtopia1995,
     @lopezpalmaSimonRodriguezUtopia1989
 
-[^51]:  agregar nota sobre los materiales divulgativos que menciona
+[^52]:  agregar nota sobre los materiales divulgativos que menciona
     Chartier, como la Biblioteca Azul
 
-[^52]:  ejemplos en Saco, Bello y Sarmiento
+[^53]:  ejemplos en Saco, Bello y Sarmiento
 
-[^53]: Salvo que en la lista de obras citadas indique otra cosa, las
+[^54]: Salvo que en la lista de obras citadas indique otra cosa, las
     traducciones al español de obras en inglés, francés y portugués son
     mías
 
-[^54]:  cuáles son las otras
+[^55]:  cuáles son las otras
 
-[^55]:  referencia a @vieiraDecolonialSubjectProblem2019
-
-[^56]:  referencia
+[^56]:  referencia a @vieiraDecolonialSubjectProblem2019
 
 [^57]:  referencia
 
-[^58]:  adelanto sobre el uso retórico de "esclavo" en Marx, sobre el
+[^58]:  referencia
+
+[^59]:  adelanto sobre el uso retórico de "esclavo" en Marx, sobre el
     que volveré en el próximo capítulo
 
-[^59]:  cita a Chartier
+[^60]:  cita a Chartier
 
-[^60]:  ejemplos
+[^61]:  ejemplos
 
-[^61]:  explicación de la cuenta de 144 variaciones, y de las siguientes
+[^62]:  explicación de la cuenta de 144 variaciones, y de las siguientes
     cuentas
 
-[^62]:  sobre constructivismo, Freire, Montesori, y niños en Finlandia
+[^63]:  sobre constructivismo, Freire, Montesori, y niños en Finlandia
     que no leen en la escuela hasta los 7 años, y sin embargo son los
     que presentan mejor comprensión lectora del mundo, según estudios
     recientes
 
-[^63]:  ejemplos, el de ramaCiudadLetrada1998, García Bacca, y otros a
+[^64]:  ejemplos, el de ramaCiudadLetrada1998, García Bacca, y otros a
     encontrar; paper sobre Derrida
 
-[^64]: sobre el rechazo programático de Rousseau por el "comercio de los
+[^65]: sobre el rechazo programático de Rousseau por el "comercio de los
     hombres", ver capítulo1
 
-[^65]:  citar algunos textos donde esto se evidencia
+[^66]:  citar algunos textos donde esto se evidencia
 
-[^66]:  referencia a Castro-Gómez
+[^67]: nota: referencia a Haraway
 
-[^67]:  referencias a Sarmiento, Alberdi y Bello
+[^68]:  referencia a Castro-Gómez
 
-[^68]:  referencia interna, creo que voy a hablar de esto en el próximo
+[^69]:  referencias a Sarmiento, Alberdi y Bello
+
+[^70]:  referencia interna, creo que voy a hablar de esto en el próximo
     capítulo
 
-[^69]:  Castro-Gómez, Grosfoguel, Quijano, Dussel, Mignolo
+[^71]:  Castro-Gómez, Grosfoguel, Quijano, Dussel, Mignolo
 
-[^70]:  referir a ejemplos en Bolívar, Bello y Miranda
+[^72]:  referir a ejemplos en Bolívar, Bello y Miranda
 
-[^71]:  para una perspectiva sobre el "Estado del disimulo" en el tardío
+[^73]:  para una perspectiva sobre el "Estado del disimulo" en el tardío
     siglo XX en Venezuela, ver Cabrujas
 
-[^72]:  referencia a definiciones de lo monstruoso en estos sentidos
+[^74]:  referencia a definiciones de lo monstruoso en estos sentidos
+
+[^75]: como detallo en el próximo capítulo, el uso del lexema "esclavo"
+    en Rodríguez tiende al sentido metafórico que, como demostró Sussan
+    Buck Morrs, fue de uso común en el liberalismo

@@ -3,7 +3,7 @@ ID:             9
 type:           md
 compile:        2
 setGoal:        1000
-charCount:      7843
+charCount:      7832
 
 
 ## El tonito adormecedor de la escuela
@@ -20,7 +20,7 @@ Originada en la matriz de la letra impresa o simplemente legal, la monotonía se
 
 >[figura: Ahorrar papel es ahorrar expresión; y el lector, en lugar de despertar la atencion / por la variedad de tonos y de tiempos,… la adormece por la monotonía y por el isocronismo] 
 
-El isocronismo, define brevemente Rodríguez en una nota al pie en 1828, es en principio "tiempos iguales"[-@rodriguezSociedadesAmericanas18282018a]<!--  -->^[ como muestro en el próximo capítulo, en un sentido más amplio, el "isocronismo" define también la metafísica del "tiempo homogéneo y vacío" que impuso y dispuso la tecnología impresa, y que el a.p.p. ataca y subvierte]. Como veremos en el próximo capítulo, el a.p.p. contrarresta este principio sobre todo en la dimensión visible y reproducible de los signos impresos: en su distribución irregular, su secuencia no lineal, y su organización significante de las variaciones tipográficas disponibles y el espacio en blanco de la hoja. Es decir, los mecanismos materiales del a.p.p. que desarman el isocronismo operan fundamentalmente en el ámbito de la tinta y el papel. En cambio, los dispositivos que Rodríguez instala para la subversión de la "monotonía" no se agotan en la materialidad verificable de los signos visuales y silentes. En cambio, la dimensión anti-monotonía del a.p.p. convoca articulaciones rítmicas y tonales --audibles-- que suplementan y complementan el régimen visual  de los signos impresos.
+El isocronismo, define brevemente Rodríguez en una nota al pie en 1828, es en principio "tiempos iguales"[-@rodriguezSociedadesAmericanas18282018a]<!--  -->^[ como muestro en el próximo capítulo, en un sentido más amplio, el "isocronismo" define también la metafísica del "tiempo homogéneo y vacío" que impuso y dispuso la tecnología impresa, y que el a.p.p. ataca y subvierte]. Como veremos en el próximo capítulo, el a.p.p. contrarresta este principio sobre todo en la dimensión visible y reproducible de los signos impresos: en su distribución irregular, su secuencia no lineal, y su organización significante de las variaciones tipográficas disponibles y el espacio en blanco de la hoja. Es decir, los mecanismos materiales del a.p.p. que desarman el isocronismo operan fundamentalmente en el ámbito de la tinta y el papel. En cambio, los dispositivos que Rodríguez instala para la subversión de la "monotonía" no se agotan en la materialidad verificable de los signos visuales y silentes. La dimensión anti-monotonía del a.p.p. convoca articulaciones rítmicas y tonales --audibles-- que suplementan y complementan el régimen visual  de los signos impresos.
 
 Por eso Rodríguez fue al igual que Bello --aunque en horizontes muy distintos-- un defensor de la prosodia: una disciplina que se aproximaba a un ocaso temporal^[nota y referencia: de cómo la prosodia desapareció por esa época y revivió recientemente como una disciplina descriptiva, posible gracias a los avances en tecnologías informáticas de análisis de la voz], pero que para él fue clave en tanto definidor de la letra impresa como una matriz o partitura que solo completaba su "sentido" al pasar por la correcta entonación, no solo de las palabras --como ya dicta la norma convencional-- sino de las frases. En *Sociedades* (1828), Rodríguez sentencia:
  
